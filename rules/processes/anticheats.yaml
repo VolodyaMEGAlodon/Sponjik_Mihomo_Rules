@@ -1,0 +1,71 @@
+# Comprehensive Anti-Cheat & Security Software List
+# These processes must be routed correctly to ensure game connectivity.
+payload:
+  # --- Easy Anti-Cheat (EAC) ---
+  - PROCESS-NAME,EasyAntiCheat.exe
+  - PROCESS-NAME,EasyAntiCheat_EOS.exe
+  - PROCESS-NAME,EasyAntiCheat_Setup.exe
+  - PROCESS-NAME,EasyAntiCheat_x64.exe
+  - PROCESS-NAME,Launch_EAC.exe
+  - PROCESS-NAME,start_protected_game.exe (Elden Ring / others)
+
+  # --- BattlEye (BE) ---
+  - PROCESS-NAME,BEService.exe
+  - PROCESS-NAME,BEService_x64.exe
+  - PROCESS-NAME,BEDaisy.sys # Kernel driver
+  - PROCESS-NAME,TslGame_BE.exe (PUBG)
+  - PROCESS-NAME,RainbowSix_BE.exe (R6 Siege)
+  - PROCESS-NAME,EscapeFromTarkov_BE.exe (Tarkov)
+  - PROCESS-NAME,DayZ_BE.exe
+  - PROCESS-NAME,Arma3BattlEye.exe
+
+  # --- Riot Vanguard ---
+  - PROCESS-NAME,vgk.exe
+  - PROCESS-NAME,vgc.exe
+
+  # --- nProtect GameGuard ---
+  - PROCESS-NAME,GameMon.des
+  - PROCESS-NAME,GameMon64.des
+  - PROCESS-NAME,GameGuard.des
+
+  # --- XignCode3 ---
+  - PROCESS-NAME,xhunter1.sys
+  - PROCESS-NAME,xigncode.exe
+  - PROCESS-NAME,xm.exe
+
+  # --- PunkBuster (Legacy) ---
+  - PROCESS-NAME,PnkBstrA.exe
+  - PROCESS-NAME,PnkBstrB.exe
+
+  # --- EA / Origin / Ricochet / Others ---
+  - PROCESS-NAME,EAAntiCheat.GameServiceLauncher.exe
+  - PROCESS-NAME,EAAntiCheat.Installer.exe
+  - PROCESS-NAME,Ricochet.exe
+  - PROCESS-NAME,Randgrid.sys
+  - PROCESS-NAME,Punisher.exe
+  - PROCESS-NAME,BlackCipher.aes (Nexon)
+  - PROCESS-NAME,BlackXchg.aes
+  - PROCESS-NAME,ngs_update.exe (Nexon Game Security)
+
+  # --- Other / Obscure ---
+  - PROCESS-NAME,anticheat.x64.equ8.exe (Equ8 / Splitgate)
+  - PROCESS-NAME,mhyprot2.sys (Mihoyo Protect / Genshin)
+  - PROCESS-NAME,mhyprot.exe (Mihoyo Service)
+  - PROCESS-NAME,SaberSupport.exe (Saber Interactive helper)
+  - PROCESS-NAME,CrashReportClient.exe (Unreal Engine games, sometimes needed)
+  - PROCESS-NAME,UniFairy.sys (Honkai 3rd)
+
+  # --- Competitive Platforms (FaceIT / ESEA) ---
+  - PROCESS-NAME,faceitclient.exe
+  - PROCESS-NAME,FACEIT_Start_Protected_Game.exe
+  - PROCESS-NAME,FACEITAC_Installer.exe
+  - PROCESS-NAME,eseaclient.exe
+
+  # --- Regional / Other (Mail.ru, Tencent) ---
+  - PROCESS-NAME,mracsvc.exe (Mail.ru MRAC)
+  - PROCESS-NAME,mracdrv1.sys
+  - PROCESS-NAME,ACE-guard client.exe (Tencent ACE)
+  - PROCESS-NAME,QQProtect.exe (Tencent)
+  - PROCESS-NAME,TenProtect.exe (Legacy/Generic)
+
+

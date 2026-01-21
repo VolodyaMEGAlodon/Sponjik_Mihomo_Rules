@@ -1,0 +1,2272 @@
+# Verified Game Executables (via SteamCMD)
+# Source: Valve Official AppInfo
+# Games Processed So Far: 2000/2000
+# Unique Executables Found: 2267
+payload:
+  - PROCESS-NAME,
+  - PROCESS-NAME,(the) Gnorp Apologue.exe
+  - PROCESS-NAME,100orange.exe
+  - PROCESS-NAME,100orange_x86.exe
+  - PROCESS-NAME,3DMark.exe
+  - PROCESS-NAME,60SecondsReatomized.exe
+  - PROCESS-NAME,7dLauncher.exe
+  - PROCESS-NAME,911.exe
+  - PROCESS-NAME,9Kings.exe
+  - PROCESS-NAME,A Dance of Fire and Ice.exe
+  - PROCESS-NAME,A Game About Feeding A Black Hole.exe
+  - PROCESS-NAME,A Little To The Left.exe
+  - PROCESS-NAME,AAGame.exe
+  - PROCESS-NAME,AALauncher32.exe
+  - PROCESS-NAME,AC4BFSP.exe
+  - PROCESS-NAME,ACBSP.exe
+  - PROCESS-NAME,ACC.exe
+  - PROCESS-NAME,ACIII.exe
+  - PROCESS-NAME,ACLiberation.exe
+  - PROCESS-NAME,ACMirage.exe
+  - PROCESS-NAME,ACOdyssey.exe
+  - PROCESS-NAME,ACOrigins.exe
+  - PROCESS-NAME,ACRMP.exe
+  - PROCESS-NAME,ACRSP.exe
+  - PROCESS-NAME,ACS.exe
+  - PROCESS-NAME,ACShadows.exe
+  - PROCESS-NAME,ACU.exe
+  - PROCESS-NAME,ACVI_FOR Digital Artbook and Soundtrack.exe
+  - PROCESS-NAME,ACValhalla.exe
+  - PROCESS-NAME,ADatewithDeath.exe
+  - PROCESS-NAME,AEONS_ECHO.exe
+  - PROCESS-NAME,AI-LIMIT.exe
+  - PROCESS-NAME,AI.exe
+  - PROCESS-NAME,AIListManager.exe
+  - PROCESS-NAME,AMS2.exe
+  - PROCESS-NAME,ANEURISM IV.exe
+  - PROCESS-NAME,AOMX.exe
+  - PROCESS-NAME,APK2.exe
+  - PROCESS-NAME,APlagueTaleInnocence_DEV_x64.exe
+  - PROCESS-NAME,APlagueTaleInnocence_x64.exe
+  - PROCESS-NAME,ASB.exe
+  - PROCESS-NAME,ASBR.exe
+  - PROCESS-NAME,ASTLIBRA.exe
+  - PROCESS-NAME,AST_GAIDEN.exe
+  - PROCESS-NAME,AT.exe
+  - PROCESS-NAME,ATLYSS.exe
+  - PROCESS-NAME,A_Tale_About_Digging_A_Hole_CN.exe
+  - PROCESS-NAME,A_Tale_About_Digging_A_Hole_DE.exe
+  - PROCESS-NAME,A_Tale_About_Digging_A_Hole_EN.exe
+  - PROCESS-NAME,AbioticFactor.exe
+  - PROCESS-NAME,Absolum.exe
+  - PROCESS-NAME,Ace7Game.exe
+  - PROCESS-NAME,AcrossTheObelisk.exe
+  - PROCESS-NAME,Action.exe
+  - PROCESS-NAME,ActionTaimanin.exe
+  - PROCESS-NAME,Adobe Substance 3D Painter.exe
+  - PROCESS-NAME,Adult_wars.exe
+  - PROCESS-NAME,AdvancedSettings.exe
+  - PROCESS-NAME,AdventuresAndConquest.exe
+  - PROCESS-NAME,Aethermancer.exe
+  - PROCESS-NAME,Against the Storm.exe
+  - PROCESS-NAME,Ages of Conflict.exe
+  - PROCESS-NAME,Airfoil Maker.exe
+  - PROCESS-NAME,Airline Manager 4.exe
+  - PROCESS-NAME,Airport CEO.exe
+  - PROCESS-NAME,AlanWake.exe
+  - PROCESS-NAME,AlbionLauncher.exe
+  - PROCESS-NAME,AlchemyFactory.exe
+  - PROCESS-NAME,Ale and Tale Tavern.exe
+  - PROCESS-NAME,AliceMadnessReturns.exe
+  - PROCESS-NAME,AliensDarkDescentGameSteam-Win64-Shipping.exe
+  - PROCESS-NAME,AliensDarkDescentGameSteam-Win64-Test.exe
+  - PROCESS-NAME,AliensDarkDescentGameSteam.exe
+  - PROCESS-NAME,Aloft.exe
+  - PROCESS-NAME,Altar-Win64-Shipping.exe
+  - PROCESS-NAME,Altar.exe
+  - PROCESS-NAME,Amarillo's Butt Slapper.exe
+  - PROCESS-NAME,Amazing Cultivation Simulator.exe
+  - PROCESS-NAME,Among Us.exe
+  - PROCESS-NAME,AmongUs3D.exe
+  - PROCESS-NAME,AngelLegion.exe
+  - PROCESS-NAME,AnimaEngineKIVI.exe
+  - PROCESS-NAME,Animal Shelter 2.exe
+  - PROCESS-NAME,AnimaliaSurvival.exe
+  - PROCESS-NAME,AnimazeDesktop.exe
+  - PROCESS-NAME,Anning.profile.exe
+  - PROCESS-NAME,Anning.release.exe
+  - PROCESS-NAME,Anno117.exe
+  - PROCESS-NAME,Anno1404.exe
+  - PROCESS-NAME,Anno1404Addon.exe
+  - PROCESS-NAME,Anno1800.exe
+  - PROCESS-NAME,AnotherCrabsTreasure.exe
+  - PROCESS-NAME,Antimatter Dimensions.exe
+  - PROCESS-NAME,AoC2.exe
+  - PROCESS-NAME,AoE2DE_s.exe
+  - PROCESS-NAME,AoE3DE_s.exe
+  - PROCESS-NAME,AoEDE_Release_D3D11.exe
+  - PROCESS-NAME,AoEDE_Steam.exe
+  - PROCESS-NAME,AoEDE_s.exe
+  - PROCESS-NAME,AoMRT_s.exe
+  - PROCESS-NAME,AoW3Launcher.exe
+  - PROCESS-NAME,Apogea.exe
+  - PROCESS-NAME,Application-steam-x32.exe
+  - PROCESS-NAME,Application-steam-x64.exe
+  - PROCESS-NAME,Aqua-Coyote.exe
+  - PROCESS-NAME,AquaticTime.exe
+  - PROCESS-NAME,ArcadeEditor64.exe
+  - PROCESS-NAME,ArcadeEditor_rt64.exe
+  - PROCESS-NAME,Ark ReCode.exe
+  - PROCESS-NAME,ArkAscended.exe
+  - PROCESS-NAME,ArkAscended_BE.exe
+  - PROCESS-NAME,Arkansas.exe
+  - PROCESS-NAME,ArkansasDev.exe
+  - PROCESS-NAME,ArkansasTest.exe
+  - PROCESS-NAME,ArmaReforgerWorkbenchSteamDiag.exe
+  - PROCESS-NAME,ArmaReforger_BE.exe
+  - PROCESS-NAME,Aska.exe
+  - PROCESS-NAME,Asphalt9_Steam_x64_rtl.exe
+  - PROCESS-NAME,AssassinsCreedIIGame.exe
+  - PROCESS-NAME,AssettoCorsa.exe
+  - PROCESS-NAME,AssettoCorsaEVO.exe
+  - PROCESS-NAME,AstralParty.exe
+  - PROCESS-NAME,AstralParty_CN.exe
+  - PROCESS-NAME,AstralParty_INT.exe
+  - PROCESS-NAME,Astro.exe
+  - PROCESS-NAME,AtlanticaRun.exe
+  - PROCESS-NAME,AtlasGame.exe
+  - PROCESS-NAME,AtlasGame_BE.exe
+  - PROCESS-NAME,AtomicHeart-Win64-Test.exe
+  - PROCESS-NAME,AtomicHeart.exe
+  - PROCESS-NAME,AutoClicker.exe
+  - PROCESS-NAME,Automation Launcher Steam.exe
+  - PROCESS-NAME,AutomationGame-Win32-Shipping.exe
+  - PROCESS-NAME,AutomationGame-Win64-Shipping.exe
+  - PROCESS-NAME,AutomationGame.exe
+  - PROCESS-NAME,Automation_Shipping_Steam.exe
+  - PROCESS-NAME,Aviassembly.exe
+  - PROCESS-NAME,Avorion.exe
+  - PROCESS-NAME,Avowed.exe
+  - PROCESS-NAME,AvowedArtbook.exe
+  - PROCESS-NAME,AvowedDev.exe
+  - PROCESS-NAME,AvowedTest.exe
+  - PROCESS-NAME,AxisAndAllies1942Online.exe
+  - PROCESS-NAME,BB3.exe
+  - PROCESS-NAME,BBCF.exe
+  - PROCESS-NAME,BBQClient.exe
+  - PROCESS-NAME,BETGame.exe
+  - PROCESS-NAME,BH6.exe
+  - PROCESS-NAME,BLUE PRINCE.exe
+  - PROCESS-NAME,BMX Streets.exe
+  - PROCESS-NAME,BOKURA.exe
+  - PROCESS-NAME,BONELAB_Steam_Windows64.exe
+  - PROCESS-NAME,BPSR_STEAM.exe
+  - PROCESS-NAME,BSLauncher.exe
+  - PROCESS-NAME,BTD5-Win.exe
+  - PROCESS-NAME,BULT.exe
+  - PROCESS-NAME,Baba Is You.exe
+  - PROCESS-NAME,Back4Blood.exe
+  - PROCESS-NAME,Backpack Hero.exe
+  - PROCESS-NAME,BackpackBattles.exe
+  - PROCESS-NAME,BackroomCompany-Win64-DebugGame.exe
+  - PROCESS-NAME,BackroomCompany.exe
+  - PROCESS-NAME,Backrooms.exe
+  - PROCESS-NAME,Balatro.exe
+  - PROCESS-NAME,Baldur.exe
+  - PROCESS-NAME,Balls.exe
+  - PROCESS-NAME,Banana.exe
+  - PROCESS-NAME,Banishers-Win64-Shipping.exe
+  - PROCESS-NAME,Bannerlord.Native.exe
+  - PROCESS-NAME,Barotrauma.exe
+  - PROCESS-NAME,Barro 2020.exe
+  - PROCESS-NAME,BatmanAC.exe
+  - PROCESS-NAME,BatmanAK.exe
+  - PROCESS-NAME,BatmanOrigins.exe
+  - PROCESS-NAME,BatmanOriginsOnline.exe
+  - PROCESS-NAME,BattleBitEAC.exe
+  - PROCESS-NAME,BattleBrothers.exe
+  - PROCESS-NAME,BattleNations.exe
+  - PROCESS-NAME,BattleTech.exe
+  - PROCESS-NAME,BattleTechLauncher.exe
+  - PROCESS-NAME,BattlefleetGothic2-Win64-Shipping.exe
+  - PROCESS-NAME,BattlefleetGothic2-Win64-Test.exe
+  - PROCESS-NAME,BattlefleetGothic2.exe
+  - PROCESS-NAME,BattlefrontII.exe
+  - PROCESS-NAME,Battles-Win.exe
+  - PROCESS-NAME,Battlesmiths.exe
+  - PROCESS-NAME,Bayonetta.exe
+  - PROCESS-NAME,BeamNG.drive.exe
+  - PROCESS-NAME,BeastsOfBermuda.exe
+  - PROCESS-NAME,Beat Saber.exe
+  - PROCESS-NAME,BeingADIK-32.exe
+  - PROCESS-NAME,BeingADIK.exe
+  - PROCESS-NAME,Bejeweled3.exe
+  - PROCESS-NAME,BellwrightGame.exe
+  - PROCESS-NAME,Bendy and the Ink Machine.exe
+  - PROCESS-NAME,Berserk B.I.T.S.exe
+  - PROCESS-NAME,Besiege.exe
+  - PROCESS-NAME,BeyondTwoSouls_Steam.exe
+  - PROCESS-NAME,Big Ambitions.exe
+  - PROCESS-NAME,BioShockHD.exe
+  - PROCESS-NAME,BioShockInfinite.exe
+  - PROCESS-NAME,Bioshock.exe
+  - PROCESS-NAME,Bioshock2HD.exe
+  - PROCESS-NAME,BioshockHD.exe
+  - PROCESS-NAME,BitCraft.exe
+  - PROCESS-NAME,BlackDesertLauncher.exe
+  - PROCESS-NAME,BlackOps.exe
+  - PROCESS-NAME,BlackOpsColdWar.exe
+  - PROCESS-NAME,Blacksmith Master.exe
+  - PROCESS-NAME,BladeAndSorcery.exe
+  - PROCESS-NAME,Blasphemous 2.exe
+  - PROCESS-NAME,Blasphemous.exe
+  - PROCESS-NAME,BlazblueEntropyEffect.exe
+  - PROCESS-NAME,BleachBraveSouls.exe
+  - PROCESS-NAME,Bloobs Adventure Idle.exe
+  - PROCESS-NAME,Bloodlines2.exe
+  - PROCESS-NAME,BloodstainedRotN.exe
+  - PROCESS-NAME,BloonsTD6.exe
+  - PROCESS-NAME,BlueArchive.exe
+  - PROCESS-NAME,BlushBlush.exe
+  - PROCESS-NAME,BmLauncher.exe
+  - PROCESS-NAME,BoatGame.exe
+  - PROCESS-NAME,Bodycam.exe
+  - PROCESS-NAME,BongoCat.exe
+  - PROCESS-NAME,Bookshop Simulator.exe
+  - PROCESS-NAME,BootLoader.Win64.ReleaseSymRtDbg.DX12.exe
+  - PROCESS-NAME,BootLoader.Win64.ReleaseSymRtDbg.exe
+  - PROCESS-NAME,Bootloader.exe
+  - PROCESS-NAME,BoplBattle.exe
+  - PROCESS-NAME,Borderlands3.exe
+  - PROCESS-NAME,Borderlands4.exe
+  - PROCESS-NAME,BorderlessGaming.exe
+  - PROCESS-NAME,Borelli.exe
+  - PROCESS-NAME,Boston.exe
+  - PROCESS-NAME,Brawlhalla.exe
+  - PROCESS-NAME,Breach.exe
+  - PROCESS-NAME,BrickRigs.exe
+  - PROCESS-NAME,Brighter Shores.exe
+  - PROCESS-NAME,Broforce_beta.exe
+  - PROCESS-NAME,BrokenArrow.exe
+  - PROCESS-NAME,Brotato.exe
+  - PROCESS-NAME,BsgLauncher.exe
+  - PROCESS-NAME,Buckshot Roulette.exe
+  - PROCESS-NAME,Build.exe
+  - PROCESS-NAME,Bully.exe
+  - PROCESS-NAME,Burning Skies Neon.exe
+  - PROCESS-NAME,BusinessTour.exe
+  - PROCESS-NAME,CK2game.exe
+  - PROCESS-NAME,CNC3.exe
+  - PROCESS-NAME,CNC3EP1.exe
+  - PROCESS-NAME,CORN.exe
+  - PROCESS-NAME,CPPFPS.exe
+  - PROCESS-NAME,CPT.profile.exe
+  - PROCESS-NAME,CPT.release.exe
+  - PROCESS-NAME,CPTConsole.profile.exe
+  - PROCESS-NAME,CQ MINI.exe
+  - PROCESS-NAME,CW4.exe
+  - PROCESS-NAME,Cadria.exe
+  - PROCESS-NAME,Call of War.exe
+  - PROCESS-NAME,CallEditor.exe
+  - PROCESS-NAME,Camel_x64_Final.exe
+  - PROCESS-NAME,Captain of Industry.exe
+  - PROCESS-NAME,Car Mechanic Simulator 2021.exe
+  - PROCESS-NAME,CarDealerSimulator.exe
+  - PROCESS-NAME,CarServiceTogether.exe
+  - PROCESS-NAME,CarX Street Launcher.exe
+  - PROCESS-NAME,Card Shop Simulator.exe
+  - PROCESS-NAME,CardShopSim.exe
+  - PROCESS-NAME,Carnal_Instinct.exe
+  - PROCESS-NAME,Carnival.exe
+  - PROCESS-NAME,CashCleanerSim.exe
+  - PROCESS-NAME,CassetteBeasts.exe
+  - PROCESS-NAME,CatanUniverse.exe
+  - PROCESS-NAME,Cats.exe
+  - PROCESS-NAME,Cauldron.exe
+  - PROCESS-NAME,Celeste.exe
+  - PROCESS-NAME,CellToSingularity.exe
+  - PROCESS-NAME,ChainedTogether.exe
+  - PROCESS-NAME,Chants Of Sennaar.exe
+  - PROCESS-NAME,ChaosGate.exe
+  - PROCESS-NAME,Chef RPG.exe
+  - PROCESS-NAME,ChildrenOfMorta.exe
+  - PROCESS-NAME,Chill With You.exe
+  - PROCESS-NAME,ChillPulse.exe
+  - PROCESS-NAME,Chillquarium.exe
+  - PROCESS-NAME,Chivalry2Launcher.exe
+  - PROCESS-NAME,ChloeDLC.exe
+  - PROCESS-NAME,ChromaTowerClient.exe
+  - PROCESS-NAME,Chronicles.exe
+  - PROCESS-NAME,Chrono Trigger.exe
+  - PROCESS-NAME,ChronoArk.exe
+  - PROCESS-NAME,Chronos.exe
+  - PROCESS-NAME,Cities.exe
+  - PROCESS-NAME,Cities2.exe
+  - PROCESS-NAME,City.exe
+  - PROCESS-NAME,City64.exe
+  - PROCESS-NAME,Civ3Conquests.exe
+  - PROCESS-NAME,Civ4BeyondSword.exe
+  - PROCESS-NAME,Civ4Warlords.exe
+  - PROCESS-NAME,Civ4Warlords_PitBoss.exe
+  - PROCESS-NAME,Civ7_Win64_DX12_FinalRelease.exe
+  - PROCESS-NAME,Civ7_Win64_DX12_Release.exe
+  - PROCESS-NAME,Civ7_Win64_Vulkan_FinalRelease.exe
+  - PROCESS-NAME,Civilization4.exe
+  - PROCESS-NAME,CivilizationV.exe
+  - PROCESS-NAME,CivilizationVI.exe
+  - PROCESS-NAME,CivilizationVI_DX12.exe
+  - PROCESS-NAME,CivilizationV_DX11.exe
+  - PROCESS-NAME,CivilizationV_Tablet.exe
+  - PROCESS-NAME,Clanfolk.exe
+  - PROCESS-NAME,Clicker Heroes.exe
+  - PROCESS-NAME,Client.exe
+  - PROCESS-NAME,ClientLauncherG.exe
+  - PROCESS-NAME,ClientLauncherR.exe
+  - PROCESS-NAME,Clone Drone in the Danger Zone.exe
+  - PROCESS-NAME,CloudheimSteam.exe
+  - PROCESS-NAME,CloverPit.exe
+  - PROCESS-NAME,CoD2MP_s.exe
+  - PROCESS-NAME,CoD2SP_s.exe
+  - PROCESS-NAME,CoDWaW.exe
+  - PROCESS-NAME,CoDWaWmp.exe
+  - PROCESS-NAME,CoE5.exe
+  - PROCESS-NAME,CoFLaunchApp.exe
+  - PROCESS-NAME,CoQ.exe
+  - PROCESS-NAME,Coal LLC.exe
+  - PROCESS-NAME,CodeVein.exe
+  - PROCESS-NAME,Colonization.exe
+  - PROCESS-NAME,ColoringPixels.exe
+  - PROCESS-NAME,CombatMaster.exe
+  - PROCESS-NAME,ComeHome-32.exe
+  - PROCESS-NAME,ComeHome.exe
+  - PROCESS-NAME,ConSim.exe
+  - PROCESS-NAME,Config.exe
+  - PROCESS-NAME,Conflict of Nations.exe
+  - PROCESS-NAME,Content Warning.exe
+  - PROCESS-NAME,ContrabandPolice.exe
+  - PROCESS-NAME,ContractVille.exe
+  - PROCESS-NAME,Control.exe
+  - PROCESS-NAME,Cookie Clicker.exe
+  - PROCESS-NAME,CoreKeeper.exe
+  - PROCESS-NAME,Cornerpond.exe
+  - PROCESS-NAME,Cosmoteer.exe
+  - PROCESS-NAME,CounterSide.exe
+  - PROCESS-NAME,CozyCaravan.exe
+  - PROCESS-NAME,Crab Game.exe
+  - PROCESS-NAME,CraftWorld.exe
+  - PROCESS-NAME,Craftopia.exe
+  - PROCESS-NAME,CrashBandicootNSaneTrilogy.exe
+  - PROCESS-NAME,CrashReporter.exe
+  - PROCESS-NAME,Crime Simulator.exe
+  - PROCESS-NAME,CrimeCleaner.exe
+  - PROCESS-NAME,Cronos.exe
+  - PROCESS-NAME,Crosshair.exe
+  - PROCESS-NAME,CrosshairX.exe
+  - PROCESS-NAME,Crossout.exe
+  - PROCESS-NAME,Crusader2.exe
+  - PROCESS-NAME,Crusaders of the Lost Idols.exe
+  - PROCESS-NAME,CrushCrush.exe
+  - PROCESS-NAME,CubeRacer.exe
+  - PROCESS-NAME,Cult Of The Lamb.exe
+  - PROCESS-NAME,CultivationMagicWorld.exe
+  - PROCESS-NAME,Cuphead.exe
+  - PROCESS-NAME,Curio.exe
+  - PROCESS-NAME,Cyberhunt - Original.exe
+  - PROCESS-NAME,Cyberhunt.exe
+  - PROCESS-NAME,Cyberpunk2077.exe
+  - PROCESS-NAME,D4X.exe
+  - PROCESS-NAME,DAOriginsLauncher.exe
+  - PROCESS-NAME,DARKSOULS.exe
+  - PROCESS-NAME,DBFighterZ.exe
+  - PROCESS-NAME,DCS.exe
+  - PROCESS-NAME,DD2.exe
+  - PROCESS-NAME,DDDA.exe
+  - PROCESS-NAME,DDLC.exe
+  - PROCESS-NAME,DDNet.exe
+  - PROCESS-NAME,DELTARUNE.exe
+  - PROCESS-NAME,DEVOUR.exe
+  - PROCESS-NAME,DJMAX RESPECT V.exe
+  - PROCESS-NAME,DKonline.exe
+  - PROCESS-NAME,DNDLauncher.exe
+  - PROCESS-NAME,DNFC.exe
+  - PROCESS-NAME,DOAX_VV_Launcher.exe
+  - PROCESS-NAME,DOOM.exe
+  - PROCESS-NAME,DOOMx64.exe
+  - PROCESS-NAME,DOSBox.exe
+  - PROCESS-NAME,DOW2.exe
+  - PROCESS-NAME,DOW2_r.exe
+  - PROCESS-NAME,DQIIIHD2DRemake.exe
+  - PROCESS-NAME,DQIandIIHD2DRemake.exe
+  - PROCESS-NAME,DRAGON QUEST XI S (No Denuvo).exe
+  - PROCESS-NAME,DRAGON QUEST XI S (Test).exe
+  - PROCESS-NAME,DRAGON QUEST XI S.exe
+  - PROCESS-NAME,DREDGE.exe
+  - PROCESS-NAME,DRG Survivor.exe
+  - PROCESS-NAME,DSPGAME.exe
+  - PROCESS-NAME,DSX.exe
+  - PROCESS-NAME,DWORIGINS.exe
+  - PROCESS-NAME,DXMD.exe
+  - PROCESS-NAME,Dangan3Win.exe
+  - PROCESS-NAME,Dangan3WinDebug.exe
+  - PROCESS-NAME,Dark Hours Prologue.exe
+  - PROCESS-NAME,DarkDecember.exe
+  - PROCESS-NAME,DarkSoulsII.exe
+  - PROCESS-NAME,DarkSoulsIII.exe
+  - PROCESS-NAME,DarkSoulsRemastered.exe
+  - PROCESS-NAME,Darkest Dungeon II.exe
+  - PROCESS-NAME,Darkest.exe
+  - PROCESS-NAME,DarkestDays_GL.exe
+  - PROCESS-NAME,Darksiders2.exe
+  - PROCESS-NAME,Darksiders3.exe
+  - PROCESS-NAME,Darkwood.exe
+  - PROCESS-NAME,Date Everything.exe
+  - PROCESS-NAME,DaveTheDiver.exe
+  - PROCESS-NAME,DawnOfMan.exe
+  - PROCESS-NAME,DayZLauncher.exe
+  - PROCESS-NAME,DayZ_BE.exe
+  - PROCESS-NAME,DaysGone.exe
+  - PROCESS-NAME,Dead Space.exe
+  - PROCESS-NAME,DeadByDaylight.exe
+  - PROCESS-NAME,DeadFrontier2.exe
+  - PROCESS-NAME,DeadIsland.exe
+  - PROCESS-NAME,DeadIslandGame.exe
+  - PROCESS-NAME,Deadside.exe
+  - PROCESS-NAME,DeadzoneSteam.exe
+  - PROCESS-NAME,DealersLife2.exe
+  - PROCESS-NAME,Death Must Die.exe
+  - PROCESS-NAME,Death and Taxes.exe
+  - PROCESS-NAME,DeconstructionSim.exe
+  - PROCESS-NAME,Demonologist.exe
+  - PROCESS-NAME,DerailValley.exe
+  - PROCESS-NAME,Descenders.exe
+  - PROCESS-NAME,DesertStalker.exe
+  - PROCESS-NAME,Desktop Defender.exe
+  - PROCESS-NAME,DesktopMate.exe
+  - PROCESS-NAME,DetroitBecomeHuman.exe
+  - PROCESS-NAME,DevilMayCry4SpecialEdition.exe
+  - PROCESS-NAME,DevilMayCry5.exe
+  - PROCESS-NAME,Diablo IV.exe
+  - PROCESS-NAME,Die in the Dungeon.exe
+  - PROCESS-NAME,DiggingGame.exe
+  - PROCESS-NAME,Digimon Story CS.exe
+  - PROCESS-NAME,Digimon Story Time Stranger.exe
+  - PROCESS-NAME,DigitalArtwork_MiniSoundtrack.exe
+  - PROCESS-NAME,DigitalComic.exe
+  - PROCESS-NAME,Dinkum.exe
+  - PROCESS-NAME,DinoIsland.exe
+  - PROCESS-NAME,Diplomacy is Not an Option.exe
+  - PROCESS-NAME,Discovery.exe
+  - PROCESS-NAME,Disfigure.exe
+  - PROCESS-NAME,Dishonored.exe
+  - PROCESS-NAME,Dishonored2.exe
+  - PROCESS-NAME,Disney_Speedstorm_x64_r.exe
+  - PROCESS-NAME,Disney_Speedstorm_x64_rtl.exe
+  - PROCESS-NAME,Dispatch.exe
+  - PROCESS-NAME,Distant_Space.exe
+  - PROCESS-NAME,DivaMegaMix.exe
+  - PROCESS-NAME,Dominion.exe
+  - PROCESS-NAME,Dominions6.exe
+  - PROCESS-NAME,Doomsday.exe
+  - PROCESS-NAME,DoorKickers2.exe
+  - PROCESS-NAME,Dorfromantik.exe
+  - PROCESS-NAME,Dragon Age The Veilguard.exe
+  - PROCESS-NAME,Dragonheir.exe
+  - PROCESS-NAME,Dragons.exe
+  - PROCESS-NAME,DreadHunger.exe
+  - PROCESS-NAME,Dread_Arena.exe
+  - PROCESS-NAME,DreamOfLadyZombie.exe
+  - PROCESS-NAME,Drift Legends 2.exe
+  - PROCESS-NAME,Drift Racing Online.exe
+  - PROCESS-NAME,DriveBeyondHorizons.exe
+  - PROCESS-NAME,DriverBooster.exe
+  - PROCESS-NAME,Drova.exe
+  - PROCESS-NAME,DrugDealerSimulator2.exe
+  - PROCESS-NAME,Duckov.exe
+  - PROCESS-NAME,DunDefGame.exe
+  - PROCESS-NAME,DuneImperium.exe
+  - PROCESS-NAME,DuneSandbox-Win64-Shipping.exe
+  - PROCESS-NAME,DuneSandbox-Win64-Test.exe
+  - PROCESS-NAME,DuneSandbox.exe
+  - PROCESS-NAME,Dungeon Alchemist.exe
+  - PROCESS-NAME,DungeonClawler.exe
+  - PROCESS-NAME,DungeonRampage.exe
+  - PROCESS-NAME,Dungeons.exe
+  - PROCESS-NAME,Dwarf Fortress.exe
+  - PROCESS-NAME,DyingLightGame.exe
+  - PROCESS-NAME,DyingLightGame_TheBeast_x64_rd.exe
+  - PROCESS-NAME,DyingLightGame_TheBeast_x64_rwdi.exe
+  - PROCESS-NAME,DyingLightGame_TheBeast_x64_rwp.exe
+  - PROCESS-NAME,DyingLightGame_x64_rd.exe
+  - PROCESS-NAME,DyingLightGame_x64_rwdi.exe
+  - PROCESS-NAME,DyingLightGame_x64_rwp.exe
+  - PROCESS-NAME,DyingLightPlayer.exe
+  - PROCESS-NAME,EAAntiCheat.GameServiceLauncher.exe
+  - PROCESS-NAME,EACLaunch.exe
+  - PROCESS-NAME,EACLauncher.exe
+  - PROCESS-NAME,EAC_OUTRIDERS.exe
+  - PROCESS-NAME,EDF5.exe
+  - PROCESS-NAME,EDLaunch.exe
+  - PROCESS-NAME,ELDEN RING Adventure Guide.exe
+  - PROCESS-NAME,ELDEN RING Digital Artbook & Soundtrack.exe
+  - PROCESS-NAME,ELDEN RING NIGHTREIGN DIGITAL ARTBOOK & MINI SOUNDTRACK.exe
+  - PROCESS-NAME,ELDEN RING™ Shadow of the Erdtree Digital Artbook & Original Soundtrack.exe
+  - PROCESS-NAME,EMERGENCY.exe
+  - PROCESS-NAME,EOSBootstrapper.exe
+  - PROCESS-NAME,EQLauncher.exe
+  - PROCESS-NAME,ESSTEAM.exe
+  - PROCESS-NAME,EZ-Crosshair.exe
+  - PROCESS-NAME,Easy Red 2.exe
+  - PROCESS-NAME,EasyAntiCheat_EOS_Setup.exe
+  - PROCESS-NAME,EasyDeliveryCo.exe
+  - PROCESS-NAME,EdenCrafters.exe
+  - PROCESS-NAME,EdenCrafters32.exe
+  - PROCESS-NAME,Editor.exe
+  - PROCESS-NAME,Elin.exe
+  - PROCESS-NAME,Empire.exe
+  - PROCESS-NAME,EmpyrionLauncher.exe
+  - PROCESS-NAME,Endeavor.exe
+  - PROCESS-NAME,Enderal Launcher.exe
+  - PROCESS-NAME,Endless Legend 2.exe
+  - PROCESS-NAME,EndlessSpace2.exe
+  - PROCESS-NAME,EntropySurvivors.exe
+  - PROCESS-NAME,EoCApp.exe
+  - PROCESS-NAME,EotU.exe
+  - PROCESS-NAME,Era.exe
+  - PROCESS-NAME,Escape Simulator 2.exe
+  - PROCESS-NAME,Escape Simulator.exe
+  - PROCESS-NAME,EssenceEditor.exe
+  - PROCESS-NAME,EtG.exe
+  - PROCESS-NAME,EternalGarden.exe
+  - PROCESS-NAME,Everlasting Summer-32.exe
+  - PROCESS-NAME,Everlasting Summer.exe
+  - PROCESS-NAME,Everlusting Life.exe
+  - PROCESS-NAME,Everspace2.exe
+  - PROCESS-NAME,ExecPubg.exe
+  - PROCESS-NAME,Exodus_SDK.exe
+  - PROCESS-NAME,Expedition33_Steam.exe
+  - PROCESS-NAME,F1Manager24.exe
+  - PROCESS-NAME,F1_23.exe
+  - PROCESS-NAME,F1_24.exe
+  - PROCESS-NAME,F1_25.exe
+  - PROCESS-NAME,FATAL FURY City of the Wolves.exe
+  - PROCESS-NAME,FC3UpdaterSteam.exe
+  - PROCESS-NAME,FCLaunch_p64.exe
+  - PROCESS-NAME,FCLaunch_r64.exe
+  - PROCESS-NAME,FCLaunch_rt64.exe
+  - PROCESS-NAME,FCPrimal.exe
+  - PROCESS-NAME,FEMBOY FUTA HOUSE.exe
+  - PROCESS-NAME,FF7_Launcher.exe
+  - PROCESS-NAME,FF9_Launcher.exe
+  - PROCESS-NAME,FFT_enhanced.exe
+  - PROCESS-NAME,FFVIII_LAUNCHER.exe
+  - PROCESS-NAME,FFX&X-2_LAUNCHER.exe
+  - PROCESS-NAME,FFXII_TZA.exe
+  - PROCESS-NAME,FFXII_TZA_GameSetting.exe
+  - PROCESS-NAME,FFXiiiLauncher.exe
+  - PROCESS-NAME,FGUSteamLauncher.exe
+  - PROCESS-NAME,FINAL FANTASY VI.exe
+  - PROCESS-NAME,FNAF_SOTM.exe
+  - PROCESS-NAME,FNR_Release_Steam_d3d12.exe
+  - PROCESS-NAME,FO.exe
+  - PROCESS-NAME,FPSAimTrainer.exe
+  - PROCESS-NAME,FPSChess.exe
+  - PROCESS-NAME,FRPG_x64_MasterBEST.exe
+  - PROCESS-NAME,FRPG_x64_ReleaseBEST.exe
+  - PROCESS-NAME,FSD.exe
+  - PROCESS-NAME,FTK.exe
+  - PROCESS-NAME,FTLGame.exe
+  - PROCESS-NAME,Fable Anniversary.exe
+  - PROCESS-NAME,Factorio.exe
+  - PROCESS-NAME,Factory Planner.exe
+  - PROCESS-NAME,FactoryCookedEditor.exe
+  - PROCESS-NAME,FactoryGame.exe
+  - PROCESS-NAME,FactoryGameSteam.exe
+  - PROCESS-NAME,FactoryServer.exe
+  - PROCESS-NAME,Fall of Avalon.exe
+  - PROCESS-NAME,FallGuys_client.exe
+  - PROCESS-NAME,FallenDollLauncher.exe
+  - PROCESS-NAME,Fallout3Launcher.exe
+  - PROCESS-NAME,Fallout4Launcher.exe
+  - PROCESS-NAME,Fallout76.exe
+  - PROCESS-NAME,FalloutLauncherSteam.exe
+  - PROCESS-NAME,FalloutNVLauncher.exe
+  - PROCESS-NAME,FalloutShelter.exe
+  - PROCESS-NAME,Fantasy Idle Dungeon.exe
+  - PROCESS-NAME,FarCry4.exe
+  - PROCESS-NAME,FarCry5.exe
+  - PROCESS-NAME,FarCry6.exe
+  - PROCESS-NAME,FarCryNewDawn.exe
+  - PROCESS-NAME,FarmTogether.exe
+  - PROCESS-NAME,FarmTogether2.exe
+  - PROCESS-NAME,Farmer Against Potatoes Idle.exe
+  - PROCESS-NAME,FarmingSimulator2017Game.exe
+  - PROCESS-NAME,FarmingSimulator2019Game.exe
+  - PROCESS-NAME,FarmingSimulator2022Game.exe
+  - PROCESS-NAME,FarmingSimulator2025.exe
+  - PROCESS-NAME,Farthest Frontier.exe
+  - PROCESS-NAME,Fast Food Simulator.exe
+  - PROCESS-NAME,Fate War.exe
+  - PROCESS-NAME,Feed and Grow.exe
+  - PROCESS-NAME,Feed the Cups.exe
+  - PROCESS-NAME,Feed the Reactor.exe
+  - PROCESS-NAME,FeedAndGrowFishLauncher.exe
+  - PROCESS-NAME,FickleCardLegend.exe
+  - PROCESS-NAME,FieldsOfMistria.exe
+  - PROCESS-NAME,FinalAlert2YR.exe
+  - PROCESS-NAME,FireAlpacaSteam.exe
+  - PROCESS-NAME,Firestone.exe
+  - PROCESS-NAME,Fischer'sFishingJourney.exe
+  - PROCESS-NAME,Fish to Dish.exe
+  - PROCESS-NAME,FishingPlanet.exe
+  - PROCESS-NAME,FiveNightsatFreddys.exe
+  - PROCESS-NAME,FiveNightsatFreddys2.exe
+  - PROCESS-NAME,FlightSimulator.exe
+  - PROCESS-NAME,FlightSimulator2024.exe
+  - PROCESS-NAME,Flotsam.exe
+  - PROCESS-NAME,FootballCoach.exe
+  - PROCESS-NAME,For The King II.exe
+  - PROCESS-NAME,Forager.exe
+  - PROCESS-NAME,Forest Hustle.exe
+  - PROCESS-NAME,ForeverSkies.exe
+  - PROCESS-NAME,ForeverWinter.exe
+  - PROCESS-NAME,Forts.exe
+  - PROCESS-NAME,ForzaHorizon4.exe
+  - PROCESS-NAME,ForzaHorizon5.exe
+  - PROCESS-NAME,Foundry.exe
+  - PROCESS-NAME,FragPunk.exe
+  - PROCESS-NAME,Frasier.exe
+  - PROCESS-NAME,FreeSolitaire.exe
+  - PROCESS-NAME,FreshWomen.exe
+  - PROCESS-NAME,From_The_Depths.exe
+  - PROCESS-NAME,Frosthaven.exe
+  - PROCESS-NAME,Frostpunk2.exe
+  - PROCESS-NAME,FuncomLauncher.exe
+  - PROCESS-NAME,G01Client-Win64-Test.exe
+  - PROCESS-NAME,GBVSR.exe
+  - PROCESS-NAME,GF2_Exilium.exe
+  - PROCESS-NAME,GGDLauncher.exe
+  - PROCESS-NAME,GGST.exe
+  - PROCESS-NAME,GH.exe
+  - PROCESS-NAME,GK12.exe
+  - PROCESS-NAME,GLA.exe
+  - PROCESS-NAME,GONEfishing.exe
+  - PROCESS-NAME,GOP3.exe
+  - PROCESS-NAME,GOTHIC.EXE
+  - PROCESS-NAME,GRB.exe
+  - PROCESS-NAME,GRB_vulkan.exe
+  - PROCESS-NAME,GRW.exe
+  - PROCESS-NAME,GS456.exe
+  - PROCESS-NAME,GSDKCnDemo.exe
+  - PROCESS-NAME,GSS2.exe
+  - PROCESS-NAME,GTA5.exe
+  - PROCESS-NAME,GTFO.exe
+  - PROCESS-NAME,GZWClient.exe
+  - PROCESS-NAME,GZWClientEAC.exe
+  - PROCESS-NAME,GZWClientSteam-Win64-DebugGame.exe
+  - PROCESS-NAME,GZWClientSteam-Win64-Shipping.exe
+  - PROCESS-NAME,GZWClientSteam-Win64-Test.exe
+  - PROCESS-NAME,GalCiv4.exe
+  - PROCESS-NAME,Galaxy Life.exe
+  - PROCESS-NAME,Galaxy.exe
+  - PROCESS-NAME,GalaxyIdleClicker.exe
+  - PROCESS-NAME,GalaxyLifeUE5.exe
+  - PROCESS-NAME,Galileo.profile.exe
+  - PROCESS-NAME,Galileo.release.exe
+  - PROCESS-NAME,Game.exe
+  - PROCESS-NAME,GameBootstrapper.exe
+  - PROCESS-NAME,GameLauncher.exe
+  - PROCESS-NAME,GameMaker.exe
+  - PROCESS-NAME,GameOfThrones-Kingsroad.exe
+  - PROCESS-NAME,Gang Beasts.exe
+  - PROCESS-NAME,Gears5_EAC.exe
+  - PROCESS-NAME,GemsOfWar.exe
+  - PROCESS-NAME,Generals.exe
+  - PROCESS-NAME,GenerationZero_F.exe
+  - PROCESS-NAME,GenerationZero_P.exe
+  - PROCESS-NAME,GenerationZero_R.exe
+  - PROCESS-NAME,GeoGuessr.exe
+  - PROCESS-NAME,GeometryDash.exe
+  - PROCESS-NAME,GettingOverIt.exe
+  - PROCESS-NAME,GhostOfTsushima.exe
+  - PROCESS-NAME,GirlsFrontLine.exe
+  - PROCESS-NAME,Gladius.exe
+  - PROCESS-NAME,GlyphClient.exe
+  - PROCESS-NAME,GlyphClientInternal.exe
+  - PROCESS-NAME,GoW.exe
+  - PROCESS-NAME,GoWR.exe
+  - PROCESS-NAME,Goat2.exe
+  - PROCESS-NAME,Gobi-Win64-Debug.exe
+  - PROCESS-NAME,Gobi-Win64-Shipping.exe
+  - PROCESS-NAME,Gobi-Win64-Test.exe
+  - PROCESS-NAME,Gobi.exe
+  - PROCESS-NAME,GodotWorkshopUploader.exe
+  - PROCESS-NAME,GodotWorkshopUtility.exe
+  - PROCESS-NAME,Going Medieval.exe
+  - PROCESS-NAME,GoldMiningSimulator.exe
+  - PROCESS-NAME,GoldRushTheGame.exe
+  - PROCESS-NAME,Golf With Your Friends.exe
+  - PROCESS-NAME,GolfIt.exe
+  - PROCESS-NAME,GoreBox.exe
+  - PROCESS-NAME,Gorilla Tag.exe
+  - PROCESS-NAME,GotBootstrapper.exe
+  - PROCESS-NAME,GotPC.exe
+  - PROCESS-NAME,GothamKnights.exe
+  - PROCESS-NAME,GothamKnightsNoOverlay.exe
+  - PROCESS-NAME,Gothic-Win64-Shipping.exe
+  - PROCESS-NAME,Gothic1SteamWorkshopLauncher.exe
+  - PROCESS-NAME,Gothic2.exe
+  - PROCESS-NAME,Gothic2SteamWorkshopLauncher.exe
+  - PROCESS-NAME,GothicStarter.exe
+  - PROCESS-NAME,GrandChase.exe
+  - PROCESS-NAME,Grapples Galore.exe
+  - PROCESS-NAME,Graveyard Keeper.exe
+  - PROCESS-NAME,GreedFall.exe
+  - PROCESS-NAME,GreedFallDO.exe
+  - PROCESS-NAME,GrilsFrontLine.exe
+  - PROCESS-NAME,Grimshire.exe
+  - PROCESS-NAME,GroundBranch.exe
+  - PROCESS-NAME,Grounded.exe
+  - PROCESS-NAME,Grounded2.exe
+  - PROCESS-NAME,Grounded2Artbook.exe
+  - PROCESS-NAME,Grounded2Dev.exe
+  - PROCESS-NAME,Grounded2Test.exe
+  - PROCESS-NAME,GroundedDev.exe
+  - PROCESS-NAME,GroundedTest.exe
+  - PROCESS-NAME,Gunfire Reborn.exe
+  - PROCESS-NAME,Gw.exe
+  - PROCESS-NAME,Gw2-64.exe
+  - PROCESS-NAME,GwStage.exe
+  - PROCESS-NAME,H1Z1_BE.exe
+  - PROCESS-NAME,H5_Game.exe
+  - PROCESS-NAME,HLL-Win64-Shipping.exe
+  - PROCESS-NAME,HLL-Win64-Test.exe
+  - PROCESS-NAME,HLL.exe
+  - PROCESS-NAME,HMA.exe
+  - PROCESS-NAME,HOMM3Launcher.exe
+  - PROCESS-NAME,HUNDRED_LINE.exe
+  - PROCESS-NAME,HWR2.exe
+  - PROCESS-NAME,HabboHotel-obr-xl.exe
+  - PROCESS-NAME,HabboHotel-obr.exe
+  - PROCESS-NAME,HabboHotel-oes-xl.exe
+  - PROCESS-NAME,HabboHotel-oes.exe
+  - PROCESS-NAME,HabboHotel-ous-xl.exe
+  - PROCESS-NAME,HabboHotel-ous.exe
+  - PROCESS-NAME,Hades.exe
+  - PROCESS-NAME,Hades2.exe
+  - PROCESS-NAME,HalfSwordUE5.exe
+  - PROCESS-NAME,HallsOfTorment.exe
+  - PROCESS-NAME,HaloInfinite.exe
+  - PROCESS-NAME,Haste.exe
+  - PROCESS-NAME,HatinTimeGame-Win64-Debug.exe
+  - PROCESS-NAME,HatinTimeGame.exe
+  - PROCESS-NAME,He is coming.exe
+  - PROCESS-NAME,Headliners.exe
+  - PROCESS-NAME,HeavenBurnsRed.exe
+  - PROCESS-NAME,HeavyRain.exe
+  - PROCESS-NAME,Helios.exe
+  - PROCESS-NAME,HellIsUs.exe
+  - PROCESS-NAME,Hello Kitty.exe
+  - PROCESS-NAME,HelloNeighbor.exe
+  - PROCESS-NAME,HelloNeighborReborn.exe
+  - PROCESS-NAME,Helloneighbor.exe
+  - PROCESS-NAME,Hemingway.exe
+  - PROCESS-NAME,HenryStickmin.exe
+  - PROCESS-NAME,HeroAcademy.exe
+  - PROCESS-NAME,Hero_Siege.exe
+  - PROCESS-NAME,HeroesOE.exe
+  - PROCESS-NAME,HerosLand.exe
+  - PROCESS-NAME,Hexcells Infinite.exe
+  - PROCESS-NAME,HogwartsLegacy.exe
+  - PROCESS-NAME,Holdfast NaW.exe
+  - PROCESS-NAME,Hollow Knight Silksong.exe
+  - PROCESS-NAME,Holly.exe
+  - PROCESS-NAME,Hollywood Animal.exe
+  - PROCESS-NAME,HoloCure.exe
+  - PROCESS-NAME,HorizonForbiddenWest.exe
+  - PROCESS-NAME,HorizonZeroDawn.exe
+  - PROCESS-NAME,HorizonZeroDawnRemastered.exe
+  - PROCESS-NAME,Horizonwalker.exe
+  - PROCESS-NAME,HornyVilla.exe
+  - PROCESS-NAME,HotlineMiami.exe
+  - PROCESS-NAME,HotlineMiami2.exe
+  - PROCESS-NAME,HottaLauncher.exe
+  - PROCESS-NAME,House of Legacy.exe
+  - PROCESS-NAME,HouseFlipper.exe
+  - PROCESS-NAME,HouseFlipper2.exe
+  - PROCESS-NAME,HouseParty.exe
+  - PROCESS-NAME,HowToTrainYourCock.exe
+  - PROCESS-NAME,HudSightApp64.exe
+  - PROCESS-NAME,Human.exe
+  - PROCESS-NAME,HumanitZ.exe
+  - PROCESS-NAME,Humankind.exe
+  - PROCESS-NAME,HundredLine_ArtBook.exe
+  - PROCESS-NAME,HundredLine_Novel.exe
+  - PROCESS-NAME,HyperMarket Simulator.exe
+  - PROCESS-NAME,I Am Future.exe
+  - PROCESS-NAME,Icarus.exe
+  - PROCESS-NAME,Idle Cave Miner.exe
+  - PROCESS-NAME,Idle Clans.exe
+  - PROCESS-NAME,Idle Fishing.exe
+  - PROCESS-NAME,Idle Pins.exe
+  - PROCESS-NAME,Idle Slayer.exe
+  - PROCESS-NAME,IdleAwakening.exe
+  - PROCESS-NAME,IdleCultivation.exe
+  - PROCESS-NAME,IdleDragons.exe
+  - PROCESS-NAME,IdleHeroTD.exe
+  - PROCESS-NAME,IdleSkilling.exe
+  - PROCESS-NAME,IdleSpiral.exe
+  - PROCESS-NAME,IdleWizard.exe
+  - PROCESS-NAME,Idling to Rule the Gods.exe
+  - PROCESS-NAME,Il-2.exe
+  - PROCESS-NAME,Incredicer.exe
+  - PROCESS-NAME,Increlution.exe
+  - PROCESS-NAME,Incremental Epic Hero 2.exe
+  - PROCESS-NAME,Indiana Jones and the Last Crusade.exe
+  - PROCESS-NAME,Infection Free Zone.exe
+  - PROCESS-NAME,Infinity Kingdom.exe
+  - PROCESS-NAME,InfinityNikki.exe
+  - PROCESS-NAME,Initial Drift.exe
+  - PROCESS-NAME,Initial Settings.exe
+  - PROCESS-NAME,Injustice2.exe
+  - PROCESS-NAME,Inscryption.exe
+  - PROCESS-NAME,InstanceManager.exe
+  - PROCESS-NAME,Insurgency.exe
+  - PROCESS-NAME,InsurgencyEAC.exe
+  - PROCESS-NAME,IntoTheDeadOurDarkestDays.exe
+  - PROCESS-NAME,IntrepidStudiosLauncher.exe
+  - PROCESS-NAME,Is This Seat Taken.exe
+  - PROCESS-NAME,Isaac.exe
+  - PROCESS-NAME,ItTakesTwo.exe
+  - PROCESS-NAME,Ixion.exe
+  - PROCESS-NAME,JA3.exe
+  - PROCESS-NAME,JA3Debug.exe
+  - PROCESS-NAME,JH.exe
+  - PROCESS-NAME,JWE.exe
+  - PROCESS-NAME,JWE2.exe
+  - PROCESS-NAME,JWE2.profile.exe
+  - PROCESS-NAME,JWE2.release.exe
+  - PROCESS-NAME,JWE3.exe
+  - PROCESS-NAME,Jantama_MahjongSoul.exe
+  - PROCESS-NAME,Jigsaw.exe
+  - PROCESS-NAME,Jotunnslayer.exe
+  - PROCESS-NAME,Julia in Japan.exe
+  - PROCESS-NAME,Jump Space.exe
+  - PROCESS-NAME,JustCause3.exe
+  - PROCESS-NAME,KFGame.exe
+  - PROCESS-NAME,KINGDOM HEARTS HD 1.5+2.5 ReMIX.exe
+  - PROCESS-NAME,KINGDOM HEARTS III.exe
+  - PROCESS-NAME,KOFXV_Steam.exe
+  - PROCESS-NAME,KSP_x64.exe
+  - PROCESS-NAME,KZ.exe
+  - PROCESS-NAME,KathanaLauncher.exe
+  - PROCESS-NAME,Keep on Mining!.exe
+  - PROCESS-NAME,KeepDriving.exe
+  - PROCESS-NAME,KillingFloor.exe
+  - PROCESS-NAME,Kin and Quarry.exe
+  - PROCESS-NAME,Kingdom Rush Alliance.exe
+  - PROCESS-NAME,KingdomCome.exe
+  - PROCESS-NAME,KingdomTwoCrowns.exe
+  - PROCESS-NAME,KingdomsAndCastles.exe
+  - PROCESS-NAME,KingdomsReborn.exe
+  - PROCESS-NAME,Kingmaker.exe
+  - PROCESS-NAME,Kinky Cats.exe
+  - PROCESS-NAME,KittyHawkx64_Steam_PCMBF.exe
+  - PROCESS-NAME,KotamaAcademyCitadel.exe
+  - PROCESS-NAME,Kronos.exe
+  - PROCESS-NAME,LEGO DC Super-villains_DX11.exe
+  - PROCESS-NAME,LEGOBatman.exe
+  - PROCESS-NAME,LEGOBatman2.exe
+  - PROCESS-NAME,LEGOBatman3.exe
+  - PROCESS-NAME,LEGOBatman3_DX11.exe
+  - PROCESS-NAME,LEGOLCUR_DX11.exe
+  - PROCESS-NAME,LEGOMARVEL2_DX11.exe
+  - PROCESS-NAME,LEGOMarvel.exe
+  - PROCESS-NAME,LEGOSTARWARSSKYWALKERSAGA_DX11.exe
+  - PROCESS-NAME,LEGOStarWarsSaga.exe
+  - PROCESS-NAME,LEGOlotr.exe
+  - PROCESS-NAME,LF.exe
+  - PROCESS-NAME,LHPC.exe
+  - PROCESS-NAME,LIS2-Win64-Shipping.exe
+  - PROCESS-NAME,LIS2-Win64-Test.exe
+  - PROCESS-NAME,LIS2.exe
+  - PROCESS-NAME,LOP.exe
+  - PROCESS-NAME,LOTF2.exe
+  - PROCESS-NAME,LOTR2Launcher.exe
+  - PROCESS-NAME,LUNACID.exe
+  - PROCESS-NAME,LWIW.exe
+  - PROCESS-NAME,LanRen2.exe
+  - PROCESS-NAME,LariLauncher.exe
+  - PROCESS-NAME,Last Epoch.exe
+  - PROCESS-NAME,Launch rFactor.exe
+  - PROCESS-NAME,Launch.exe
+  - PROCESS-NAME,LaunchGame.exe
+  - PROCESS-NAME,LaunchPad.exe
+  - PROCESS-NAME,LaunchSango.exe
+  - PROCESS-NAME,Launch_HLL.exe
+  - PROCESS-NAME,Launcher.exe
+  - PROCESS-NAME,LauncherPatcher.exe
+  - PROCESS-NAME,Leaf it Alone.exe
+  - PROCESS-NAME,Legends Of Dragaea Idle Dungeons.exe
+  - PROCESS-NAME,LegendsOfIdleon.exe
+  - PROCESS-NAME,Legion TD 2.exe
+  - PROCESS-NAME,Lethal Company.exe
+  - PROCESS-NAME,LiS.exe
+  - PROCESS-NAME,Liar's Bar.exe
+  - PROCESS-NAME,LibraryOfRuina.exe
+  - PROCESS-NAME,LifeIsStrange.exe
+  - PROCESS-NAME,LifeIsStrangeDoubleExposure.exe
+  - PROCESS-NAME,Liftoff.exe
+  - PROCESS-NAME,LightyearFrontier.exe
+  - PROCESS-NAME,LikeADragon8.exe
+  - PROCESS-NAME,LimbusCompany.exe
+  - PROCESS-NAME,LimbusCompany_BE.exe
+  - PROCESS-NAME,Little Nightmares II.exe
+  - PROCESS-NAME,LittleNightmares.exe
+  - PROCESS-NAME,LittleNightmaresIII.exe
+  - PROCESS-NAME,Little_Nightmares_II_Enhanced.exe
+  - PROCESS-NAME,LoafingTown.exe
+  - PROCESS-NAME,LobotomyCorp.exe
+  - PROCESS-NAME,LockdownProtocol.exe
+  - PROCESS-NAME,Longvinter.exe
+  - PROCESS-NAME,Loop Hero.exe
+  - PROCESS-NAME,Loot of Baal.exe
+  - PROCESS-NAME,Lords Mobile.exe
+  - PROCESS-NAME,LosslessScaling.exe
+  - PROCESS-NAME,LostCastle2.exe
+  - PROCESS-NAME,LoveBeat.exe
+  - PROCESS-NAME,Luma Island.exe
+  - PROCESS-NAME,LurkBait Twitch Fishing.exe
+  - PROCESS-NAME,METAL GEAR RISING REVENGEANCE.exe
+  - PROCESS-NAME,METAPHOR.exe
+  - PROCESS-NAME,MGSDelta.exe
+  - PROCESS-NAME,MHST.exe
+  - PROCESS-NAME,MHUR.exe
+  - PROCESS-NAME,MIMESIS.exe
+  - PROCESS-NAME,MISERY.exe
+  - PROCESS-NAME,MK10.exe
+  - PROCESS-NAME,MK11.exe
+  - PROCESS-NAME,MK11Game-Retail.exe
+  - PROCESS-NAME,MK11Game-RetailCheatsOn.exe
+  - PROCESS-NAME,MK11_DX12.exe
+  - PROCESS-NAME,MK12.exe
+  - PROCESS-NAME,MKXLauncher.exe
+  - PROCESS-NAME,MLBRIVALS.exe
+  - PROCESS-NAME,MM.exe
+  - PROCESS-NAME,MMH7Editor-Win64-Shipping.exe
+  - PROCESS-NAME,MMH7Game-Win64-Shipping.exe
+  - PROCESS-NAME,MOE.exe
+  - PROCESS-NAME,MONOPOLY Poker.exe
+  - PROCESS-NAME,MSGBO2_DEV.exe
+  - PROCESS-NAME,MSGBO2_Debug.exe
+  - PROCESS-NAME,MSGBO2_DebugOpt.exe
+  - PROCESS-NAME,MSGBO2_Release.exe
+  - PROCESS-NAME,MSGBO2_STG.exe
+  - PROCESS-NAME,MTGA.exe
+  - PROCESS-NAME,MU Dark Epoch.exe
+  - PROCESS-NAME,MWOClient.exe
+  - PROCESS-NAME,Mad Games Tycoon 2.exe
+  - PROCESS-NAME,Mad Island.exe
+  - PROCESS-NAME,MadMax.exe
+  - PROCESS-NAME,Madness Project Nexus.exe
+  - PROCESS-NAME,Madness-Win64-Test.exe
+  - PROCESS-NAME,Madness.exe
+  - PROCESS-NAME,MadokaExedra.exe
+  - PROCESS-NAME,Mafia II Definitive Edition.exe
+  - PROCESS-NAME,MafiaTheOldCountry-logging.exe
+  - PROCESS-NAME,MafiaTheOldCountry.exe
+  - PROCESS-NAME,MageArena.exe
+  - PROCESS-NAME,Magic Studies.exe
+  - PROCESS-NAME,Magicraft.exe
+  - PROCESS-NAME,MagnusClientRetail.exe
+  - PROCESS-NAME,MagnusEOSBootstrapperProfile.exe
+  - PROCESS-NAME,MagnusEOSBootstrapperRelease.exe
+  - PROCESS-NAME,MagnusEOSBootstrapperRetail.exe
+  - PROCESS-NAME,MagnusEosBootstrapperProfile.exe
+  - PROCESS-NAME,MagnusEosBootstrapperRelease.exe
+  - PROCESS-NAME,MagnusEosBootstrapperRetail.exe
+  - PROCESS-NAME,Mahjong-JP.exe
+  - PROCESS-NAME,Mall Simulator.exe
+  - PROCESS-NAME,Maneater.exe
+  - PROCESS-NAME,ManorLords.exe
+  - PROCESS-NAME,MarblesOnStream.exe
+  - PROCESS-NAME,Mars.exe
+  - PROCESS-NAME,MarsDebug.exe
+  - PROCESS-NAME,MarsSteam.exe
+  - PROCESS-NAME,Marvel Puzzle Quest.exe
+  - PROCESS-NAME,MarvelRivals_Launcher.exe
+  - PROCESS-NAME,Master Of Command.exe
+  - PROCESS-NAME,MasterOfOrion.exe
+  - PROCESS-NAME,MateEngineX.exe
+  - PROCESS-NAME,MechWarrior.exe
+  - PROCESS-NAME,Mechabellum.exe
+  - PROCESS-NAME,Mecharashi.exe
+  - PROCESS-NAME,Medieval_Dynasty.exe
+  - PROCESS-NAME,Megabonk.exe
+  - PROCESS-NAME,Melvor Idle.exe
+  - PROCESS-NAME,MetroExodus.exe
+  - PROCESS-NAME,MiSideFull.exe
+  - PROCESS-NAME,MidnightSuns.exe
+  - PROCESS-NAME,MilesMorales.exe
+  - PROCESS-NAME,MilitaryIncrementalComplex.exe
+  - PROCESS-NAME,Mindustry.exe
+  - PROCESS-NAME,MineMogul.exe
+  - PROCESS-NAME,Mini Motorways.exe
+  - PROCESS-NAME,MiniCozyRoom.exe
+  - PROCESS-NAME,Mining.exe
+  - PROCESS-NAME,MinionMasters.exe
+  - PROCESS-NAME,Mir4S.exe
+  - PROCESS-NAME,Miscrits.exe
+  - PROCESS-NAME,MoNiShouYou.exe
+  - PROCESS-NAME,ModLauncher.exe
+  - PROCESS-NAME,ModLauncherWPF.exe
+  - PROCESS-NAME,Mon Bazou.exe
+  - PROCESS-NAME,Money Simulator - Brokeville.exe
+  - PROCESS-NAME,MonkeyCity-Win.exe
+  - PROCESS-NAME,Monster Sanctuary.exe
+  - PROCESS-NAME,MonsterFarm.exe
+  - PROCESS-NAME,MonsterHunterRise.exe
+  - PROCESS-NAME,MonsterHunterWilds.exe
+  - PROCESS-NAME,MonsterHunterWorld.exe
+  - PROCESS-NAME,MonsterTrain.exe
+  - PROCESS-NAME,MonsterTrain2.exe
+  - PROCESS-NAME,MonstersComing.exe
+  - PROCESS-NAME,Moonlighter 2 The Endless Vault.exe
+  - PROCESS-NAME,Moonlighter.exe
+  - PROCESS-NAME,Moonstone Island.exe
+  - PROCESS-NAME,Mordhau.exe
+  - PROCESS-NAME,Moria.exe
+  - PROCESS-NAME,Morimens.exe
+  - PROCESS-NAME,Morrison.Main_Win64_final.exe
+  - PROCESS-NAME,Morrowind Launcher.exe
+  - PROCESS-NAME,MortalOnline2Launcher.exe
+  - PROCESS-NAME,MotorTown-Win64-Shipping.exe
+  - PROCESS-NAME,Mr.Mine.exe
+  - PROCESS-NAME,Muck.exe
+  - PROCESS-NAME,MudRunner.exe
+  - PROCESS-NAME,MxGame2021.exe
+  - PROCESS-NAME,My Garage.exe
+  - PROCESS-NAME,MySingingMonsters.exe
+  - PROCESS-NAME,Mycopunk.exe
+  - PROCESS-NAME,NARUTO.exe
+  - PROCESS-NAME,NASCAR25_Steam.exe
+  - PROCESS-NAME,NBA2K23.exe
+  - PROCESS-NAME,NBA2K24.exe
+  - PROCESS-NAME,NBA2K25.exe
+  - PROCESS-NAME,NBA2K26.exe
+  - PROCESS-NAME,NERvLaunch.exe
+  - PROCESS-NAME,NFL1.exe
+  - PROCESS-NAME,NGUIdle.exe
+  - PROCESS-NAME,NIMBYRails.exe
+  - PROCESS-NAME,NINJAGAIDEN4-Steam.exe
+  - PROCESS-NAME,NIP.Win64.Submission.DX12.Steam.MiSecure.exe
+  - PROCESS-NAME,NIP.WinGameSteam.Submission.DX12.exe
+  - PROCESS-NAME,NIP.WinGameSteam.Submission.exe
+  - PROCESS-NAME,NMS.exe
+  - PROCESS-NAME,NNF_FULLVERSION.exe
+  - PROCESS-NAME,NOBU14SR_Launcher.exe
+  - PROCESS-NAME,NOBU16_Launcher.exe
+  - PROCESS-NAME,NOBU_HADOU_Launcher.exe
+  - PROCESS-NAME,NSUNS4.exe
+  - PROCESS-NAME,NWD-Win64-Shipping.exe
+  - PROCESS-NAME,NWD-Win64-Test.exe
+  - PROCESS-NAME,NWD.exe
+  - PROCESS-NAME,NWX.exe
+  - PROCESS-NAME,NWXClient.exe
+  - PROCESS-NAME,Napoleon.exe
+  - PROCESS-NAME,NavalActionCrashSender.exe
+  - PROCESS-NAME,Necesse.exe
+  - PROCESS-NAME,Neon White.exe
+  - PROCESS-NAME,NeopleLauncher.exe
+  - PROCESS-NAME,Nero-Win64-Shipping.exe
+  - PROCESS-NAME,Nero-Win64-Test.exe
+  - PROCESS-NAME,Nero.Win64.profile.exe
+  - PROCESS-NAME,Nero.Win64.release.exe
+  - PROCESS-NAME,Nero.exe
+  - PROCESS-NAME,Neverwinter.exe
+  - PROCESS-NAME,NewColossus_x64vk.exe
+  - PROCESS-NAME,NewWorld.exe
+  - PROCESS-NAME,NewWorldLauncher.exe
+  - PROCESS-NAME,News Tower.exe
+  - PROCESS-NAME,Newton.profile.exe
+  - PROCESS-NAME,Newton.release.exe
+  - PROCESS-NAME,Nicola.exe
+  - PROCESS-NAME,NieR Replicant ver.1.22474487139.exe
+  - PROCESS-NAME,NieRAutomata.exe
+  - PROCESS-NAME,Nightfall.exe
+  - PROCESS-NAME,NightfallClient-Win64-Shipping.exe
+  - PROCESS-NAME,NightfallClient-Win64-Test.exe
+  - PROCESS-NAME,NightfallClient.exe
+  - PROCESS-NAME,NinOnline.exe
+  - PROCESS-NAME,NineSols.exe
+  - PROCESS-NAME,Nine_Ball_Roulette.exe
+  - PROCESS-NAME,Ninja Kiwi Archive.exe
+  - PROCESS-NAME,NoImNotAHuman.exe
+  - PROCESS-NAME,NoRestForTheWicked.exe
+  - PROCESS-NAME,NoSlackPets.exe
+  - PROCESS-NAME,Noobs Are Coming.exe
+  - PROCESS-NAME,Norland.exe
+  - PROCESS-NAME,Northgard.exe
+  - PROCESS-NAME,NostaleLauncher.exe
+  - PROCESS-NAME,NuclearNightmare.exe
+  - PROCESS-NAME,NuclearOption.exe
+  - PROCESS-NAME,OAC.exe
+  - PROCESS-NAME,OAR.exe
+  - PROCESS-NAME,OMORI.exe
+  - PROCESS-NAME,ONCE_HUMAN.exe
+  - PROCESS-NAME,OPERATOR.exe
+  - PROCESS-NAME,OPPW4.exe
+  - PROCESS-NAME,OUTRIDERS-Win64-Shipping.exe
+  - PROCESS-NAME,OVRToolkit-Launcher.exe
+  - PROCESS-NAME,OakGame-Win64-Shipping.exe
+  - PROCESS-NAME,OakGame-Win64-Test-NoStats.exe
+  - PROCESS-NAME,OakGame-Win64-Test.exe
+  - PROCESS-NAME,OakGame.exe
+  - PROCESS-NAME,OblivionLauncher.exe
+  - PROCESS-NAME,OblivionRemastered.exe
+  - PROCESS-NAME,ObraDinn.exe
+  - PROCESS-NAME,Octopath_Traveler.exe
+  - PROCESS-NAME,Octopath_Traveler0.exe
+  - PROCESS-NAME,Octopath_Traveler2-Win64-Shipping.exe
+  - PROCESS-NAME,Octopath_Traveler2.exe
+  - PROCESS-NAME,Old Market Simulator.exe
+  - PROCESS-NAME,OldWorld.exe
+  - PROCESS-NAME,OmegaStrikers.exe
+  - PROCESS-NAME,Omsi.exe
+  - PROCESS-NAME,Omsi_2.2.032.exe
+  - PROCESS-NAME,One Turn Kill.exe
+  - PROCESS-NAME,OpNewEarth.exe
+  - PROCESS-NAME,Orcs Must Die! Deathtrap.exe
+  - PROCESS-NAME,Oregon.exe
+  - PROCESS-NAME,OriDE.exe
+  - PROCESS-NAME,Our Adventuring Guild.exe
+  - PROCESS-NAME,OurLife.exe
+  - PROCESS-NAME,OutOfOre.exe
+  - PROCESS-NAME,OuterWilds.exe
+  - PROCESS-NAME,Outlast2.exe
+  - PROCESS-NAME,OutlastLauncher.exe
+  - PROCESS-NAME,Outlaws.exe
+  - PROCESS-NAME,Outward Definitive Edition.exe
+  - PROCESS-NAME,Outward.exe
+  - PROCESS-NAME,Overcooked All You Can Eat.exe
+  - PROCESS-NAME,Overcooked.exe
+  - PROCESS-NAME,Overcooked2.exe
+  - PROCESS-NAME,Overwatch.exe
+  - PROCESS-NAME,OxygenNotIncluded.exe
+  - PROCESS-NAME,OyasumiVR.exe
+  - PROCESS-NAME,P3R.exe
+  - PROCESS-NAME,P3R_Artbook.exe
+  - PROCESS-NAME,P3R_Soundtrack.exe
+  - PROCESS-NAME,P4G.exe
+  - PROCESS-NAME,P5R.exe
+  - PROCESS-NAME,P5ROptimize.exe
+  - PROCESS-NAME,P5RReleaseDebug.exe
+  - PROCESS-NAME,P5XGame.exe
+  - PROCESS-NAME,PAYDAY3.exe
+  - PROCESS-NAME,PAYDAY3Client.exe
+  - PROCESS-NAME,PC-Launcher.exe
+  - PROCESS-NAME,PCBS.exe
+  - PROCESS-NAME,PCM.exe
+  - PROCESS-NAME,PCM64.exe
+  - PROCESS-NAME,PEAK.exe
+  - PROCESS-NAME,PES2021.exe
+  - PROCESS-NAME,PGATOUR2K23.exe
+  - PROCESS-NAME,PGATOUR2K25.exe
+  - PROCESS-NAME,PNGTUBER PLUS 1.4.5 STEAM.exe
+  - PROCESS-NAME,PWAAT.exe
+  - PROCESS-NAME,Pagoda.exe
+  - PROCESS-NAME,PaintTheTownRed.exe
+  - PROCESS-NAME,PaintTheTownRedVR.exe
+  - PROCESS-NAME,PalServer.exe
+  - PROCESS-NAME,PaladinsBootstrapper.exe
+  - PROCESS-NAME,PaladinsEAC.exe
+  - PROCESS-NAME,PaliaClientSteam-Win64-Shipping.exe
+  - PROCESS-NAME,PaliaClientSteam-Win64-Test.exe
+  - PROCESS-NAME,PaliaClientSteam.exe
+  - PROCESS-NAME,Palworld.exe
+  - PROCESS-NAME,Panoptyca.exe
+  - PROCESS-NAME,Pantheon.exe
+  - PROCESS-NAME,Papa's Freezeria Deluxe.exe
+  - PROCESS-NAME,PapersPlease.exe
+  - PROCESS-NAME,ParadiseLost.exe
+  - PROCESS-NAME,Paradox Launcher.exe
+  - PROCESS-NAME,PartyAnimals.exe
+  - PROCESS-NAME,PassionIndustry.exe
+  - PROCESS-NAME,PathOfExileSteam.exe
+  - PROCESS-NAME,Pathologic.exe
+  - PROCESS-NAME,Pathologic3.exe
+  - PROCESS-NAME,PaxDei.exe
+  - PROCESS-NAME,Peak.exe
+  - PROCESS-NAME,Peglin.exe
+  - PROCESS-NAME,PenDriverPro.exe
+  - PROCESS-NAME,People Playground.exe
+  - PROCESS-NAME,PhantomBrigade.exe
+  - PROCESS-NAME,Pharaoh.exe
+  - PROCESS-NAME,Phasmophobia.exe
+  - PROCESS-NAME,Phoenix-Win64-Test.exe
+  - PROCESS-NAME,PhoenixPointWin64.exe
+  - PROCESS-NAME,PillarsOfEternity.exe
+  - PROCESS-NAME,PillarsOfEternity2.exe
+  - PROCESS-NAME,PillarsOfEternityII.exe
+  - PROCESS-NAME,PioneerGame.exe
+  - PROCESS-NAME,Pioneers of Pagonia.exe
+  - PROCESS-NAME,Pioner.exe
+  - PROCESS-NAME,Pixel Gun 3D.exe
+  - PROCESS-NAME,PizzaTower.exe
+  - PROCESS-NAME,Pizzeria Simulator.exe
+  - PROCESS-NAME,Placid Plastic Duck Simulator.exe
+  - PROCESS-NAME,PlagueIncEvolved.exe
+  - PROCESS-NAME,Plane Maker.exe
+  - PROCESS-NAME,Planes, Bullets and Vodka.exe
+  - PROCESS-NAME,Planet Crafter.exe
+  - PROCESS-NAME,PlanetCoaster.exe
+  - PROCESS-NAME,PlanetCoaster.profile.exe
+  - PROCESS-NAME,PlanetCoaster2.exe
+  - PROCESS-NAME,PlanetZoo.exe
+  - PROCESS-NAME,PlanetZoo.profile.exe
+  - PROCESS-NAME,PlanetZoo.release.exe
+  - PROCESS-NAME,Planetbase.exe
+  - PROCESS-NAME,PlantsVsZombies.exe
+  - PROCESS-NAME,PlariumGamesLauncher.exe
+  - PROCESS-NAME,PlateUp.exe
+  - PROCESS-NAME,PlayGTAIV.exe
+  - PROCESS-NAME,PlayGTASanAndreas.exe
+  - PROCESS-NAME,PlayGTAV.exe
+  - PROCESS-NAME,PlayGTAViceCity.exe
+  - PROCESS-NAME,PlayLAN.exe
+  - PROCESS-NAME,PlayMaxPayne3.exe
+  - PROCESS-NAME,PlayRDR.exe
+  - PROCESS-NAME,PlayRDR2.exe
+  - PROCESS-NAME,PlayStationVR2App.exe
+  - PROCESS-NAME,PlayTogether.exe
+  - PROCESS-NAME,PlaytimeLauncher.exe
+  - PROCESS-NAME,Playtime_Multiplayer.exe
+  - PROCESS-NAME,PocketWaifu.exe
+  - PROCESS-NAME,Poker Championship.exe
+  - PROCESS-NAME,PokerStarsVR.exe
+  - PROCESS-NAME,PokerstarsVR_Bootstrap.exe
+  - PROCESS-NAME,Polytopia.exe
+  - PROCESS-NAME,Poolians.exe
+  - PROCESS-NAME,Portia.exe
+  - PROCESS-NAME,Postal2.exe
+  - PROCESS-NAME,Postal2MP.exe
+  - PROCESS-NAME,Potion Craft.exe
+  - PROCESS-NAME,Power Toolkit.exe
+  - PROCESS-NAME,PowerWash Simulator 2.exe
+  - PROCESS-NAME,PowerWashSimulator.exe
+  - PROCESS-NAME,Precinct.exe
+  - PROCESS-NAME,PrecisionX_x64.exe
+  - PROCESS-NAME,PredecessorLauncher.exe
+  - PROCESS-NAME,Prehistoric Kingdom.exe
+  - PROCESS-NAME,Prey.exe
+  - PROCESS-NAME,Prison Architect.exe
+  - PROCESS-NAME,ProSoccerOnline.exe
+  - PROCESS-NAME,ProjectCoral.exe
+  - PROCESS-NAME,ProjectDR.exe
+  - PROCESS-NAME,ProjectHospital.exe
+  - PROCESS-NAME,ProjectWingman.exe
+  - PROCESS-NAME,ProjectZomboid32.exe
+  - PROCESS-NAME,ProjectZomboid64.exe
+  - PROCESS-NAME,Project_Plague.exe
+  - PROCESS-NAME,Prominence-Win64-Shipping.exe
+  - PROCESS-NAME,Prominence.exe
+  - PROCESS-NAME,Psychonauts.exe
+  - PROCESS-NAME,Puck.exe
+  - PROCESS-NAME,PummelParty.exe
+  - PROCESS-NAME,Puzzle Together.exe
+  - PROCESS-NAME,QUICKERFLAK.exe
+  - PROCESS-NAME,QZSim.exe
+  - PROCESS-NAME,QuakeChampions.exe
+  - PROCESS-NAME,Quasimorph.exe
+  - PROCESS-NAME,Quaver.exe
+  - PROCESS-NAME,RA2MD.exe
+  - PROCESS-NAME,RA3EP1.exe
+  - PROCESS-NAME,RCT3.exe
+  - PROCESS-NAME,RCTClassic.exe
+  - PROCESS-NAME,REDprelauncher.exe
+  - PROCESS-NAME,REPO.exe
+  - PROCESS-NAME,RGame.exe
+  - PROCESS-NAME,RISK.exe
+  - PROCESS-NAME,RLLauncher.exe
+  - PROCESS-NAME,ROTTR.exe
+  - PROCESS-NAME,ROTTR_orig.exe
+  - PROCESS-NAME,ROTTR_prot.exe
+  - PROCESS-NAME,ROUNDS.exe
+  - PROCESS-NAME,RPGMV.exe
+  - PROCESS-NAME,RPGMZ.exe
+  - PROCESS-NAME,RPGVXAce.exe
+  - PROCESS-NAME,RPGXP.exe
+  - PROCESS-NAME,RP_Steam_Playground.exe
+  - PROCESS-NAME,RP_Steam_Staging.exe
+  - PROCESS-NAME,RP_Steam_Test.exe
+  - PROCESS-NAME,RRRE64.exe
+  - PROCESS-NAME,RSDragonwilds.exe
+  - PROCESS-NAME,RUSSIAPHOBIA.exe
+  - PROCESS-NAME,Ra2.exe
+  - PROCESS-NAME,RabbitSteel.exe
+  - PROCESS-NAME,Raft.exe
+  - PROCESS-NAME,RailWorks64.exe
+  - PROCESS-NAME,RailWorksDX12_64.exe
+  - PROCESS-NAME,Railroader.exe
+  - PROCESS-NAME,RailwayEmpire.exe
+  - PROCESS-NAME,RailwayEmpire2.exe
+  - PROCESS-NAME,Railworks.exe
+  - PROCESS-NAME,RainWorld.exe
+  - PROCESS-NAME,RainbowSix.exe
+  - PROCESS-NAME,Ranch_Simulator.exe
+  - PROCESS-NAME,Ratopia.exe
+  - PROCESS-NAME,Ravenswatch.exe
+  - PROCESS-NAME,Razortron 2000 - Original.exe
+  - PROCESS-NAME,Razortron 2000.exe
+  - PROCESS-NAME,ReadyOrNot.exe
+  - PROCESS-NAME,RealFlight64.exe
+  - PROCESS-NAME,RealmGrinderDesktop.exe
+  - PROCESS-NAME,Reckoning.exe
+  - PROCESS-NAME,Recroom_Release.exe
+  - PROCESS-NAME,RelicCOH.exe
+  - PROCESS-NAME,RelicCardinal.exe
+  - PROCESS-NAME,RelicCoH2.exe
+  - PROCESS-NAME,RelicCoH3.exe
+  - PROCESS-NAME,RelicDoW3.exe
+  - PROCESS-NAME,Remnant.exe
+  - PROCESS-NAME,Remnant2.exe
+  - PROCESS-NAME,Replanted.exe
+  - PROCESS-NAME,Resonite.exe
+  - PROCESS-NAME,Restaurats.exe
+  - PROCESS-NAME,Revolution Idle.exe
+  - PROCESS-NAME,Rhythm Doctor.exe
+  - PROCESS-NAME,Ride.exe
+  - PROCESS-NAME,RidersRepublic.exe
+  - PROCESS-NAME,RiftApart.exe
+  - PROCESS-NAME,RiftOfTheNecroDancer.exe
+  - PROCESS-NAME,RimWorldWin.exe
+  - PROCESS-NAME,RimWorldWin64.exe
+  - PROCESS-NAME,RiseOfEros.exe
+  - PROCESS-NAME,Rising Front.exe
+  - PROCESS-NAME,RisingStorm2.exe
+  - PROCESS-NAME,Risk of Rain Returns.exe
+  - PROCESS-NAME,RivalStarsHorseRacing.exe
+  - PROCESS-NAME,Rivals2-Win64-Shipping.exe
+  - PROCESS-NAME,Rivals2.exe
+  - PROCESS-NAME,RivalsofAether.exe
+  - PROCESS-NAME,Roadcraft - Retail.exe
+  - PROCESS-NAME,Roadside Research.exe
+  - PROCESS-NAME,RoboCop.exe
+  - PROCESS-NAME,RoboQuest.exe
+  - PROCESS-NAME,Rock 'N' Roll Defense.exe
+  - PROCESS-NAME,RocketLeague.exe
+  - PROCESS-NAME,Rocksmith2014.exe
+  - PROCESS-NAME,Rogue Legacy 2.exe
+  - PROCESS-NAME,Rogue Tower.exe
+  - PROCESS-NAME,RogueCompany.exe
+  - PROCESS-NAME,Rogue_x64_Release.exe
+  - PROCESS-NAME,Romancing SaGa 2 RotS-Win64.exe
+  - PROCESS-NAME,RomeTW-BI.exe
+  - PROCESS-NAME,RomeTW.exe
+  - PROCESS-NAME,Ronin.exe
+  - PROCESS-NAME,RoomRoyalA.exe
+  - PROCESS-NAME,Root.exe
+  - PROCESS-NAME,Roots of Pacha.exe
+  - PROCESS-NAME,RopukaIdleIsland.exe
+  - PROCESS-NAME,RotMG Exalt Launcher.exe
+  - PROCESS-NAME,Routine.exe
+  - PROCESS-NAME,RuneScape.exe
+  - PROCESS-NAME,RustyLauncher.exe
+  - PROCESS-NAME,RutonyChat.exe
+  - PROCESS-NAME,S8R_Launcher.exe
+  - PROCESS-NAME,SAN13Launcher.exe
+  - PROCESS-NAME,SAN14_Launcher.exe
+  - PROCESS-NAME,SAN_HADOU_Launcher.exe
+  - PROCESS-NAME,SARD.Runner.exe
+  - PROCESS-NAME,SARDUpdater.exe
+  - PROCESS-NAME,SB.exe
+  - PROCESS-NAME,SC Jogos Launcher.exe
+  - PROCESS-NAME,SCPSL.exe
+  - PROCESS-NAME,SCUM_Launcher.exe
+  - PROCESS-NAME,SDHDShip.exe
+  - PROCESS-NAME,SETUPAPPLICATION SOVIET.exe
+  - PROCESS-NAME,SGConfig.exe
+  - PROCESS-NAME,SGW3.exe
+  - PROCESS-NAME,SGWContracts2.exe
+  - PROCESS-NAME,SH9.exe
+  - PROCESS-NAME,SHCO.exe
+  - PROCESS-NAME,SHProto.exe
+  - PROCESS-NAME,SHf.exe
+  - PROCESS-NAME,SHf_BonusContent.exe
+  - PROCESS-NAME,SIGame.exe
+  - PROCESS-NAME,SMALLAND.exe
+  - PROCESS-NAME,SMT5V.exe
+  - PROCESS-NAME,SNAP.exe
+  - PROCESS-NAME,SONIC_X_SHADOW_GENERATIONS.exe
+  - PROCESS-NAME,SONIC_X_SHADOW_GENERATIONSArtAndMusic.exe
+  - PROCESS-NAME,SOS OPS.exe
+  - PROCESS-NAME,SOSGrandBazaar.exe
+  - PROCESS-NAME,SOTTR.exe
+  - PROCESS-NAME,SPACEROCKBREAKER.exe
+  - PROCESS-NAME,SRTTR.exe
+  - PROCESS-NAME,SSFIV.exe
+  - PROCESS-NAME,START.exe
+  - PROCESS-NAME,STRAFTAT.exe
+  - PROCESS-NAME,SUPER ROBOT WARS Y.exe
+  - PROCESS-NAME,SWORN.exe
+  - PROCESS-NAME,SaintsRowIV.exe
+  - PROCESS-NAME,San11WPK_Launcher.exe
+  - PROCESS-NAME,Sandrock.exe
+  - PROCESS-NAME,SandrockMultiPlayer.exe
+  - PROCESS-NAME,SaveSync.exe
+  - PROCESS-NAME,Scam Line.exe
+  - PROCESS-NAME,Schedule I Free Sample.exe
+  - PROCESS-NAME,Schedule I.exe
+  - PROCESS-NAME,ScopeX.exe
+  - PROCESS-NAME,Scotch_Master.exe
+  - PROCESS-NAME,Scotch_profiling.exe
+  - PROCESS-NAME,Scotch_release.exe
+  - PROCESS-NAME,ScrapMechanic.exe
+  - PROCESS-NAME,ScratchInc.exe
+  - PROCESS-NAME,Screw Drivers.exe
+  - PROCESS-NAME,Sea Power.exe
+  - PROCESS-NAME,SeaOfStars.exe
+  - PROCESS-NAME,SeaOfThieves.exe
+  - PROCESS-NAME,SeasunGame.exe
+  - PROCESS-NAME,Sen1Launcher.exe
+  - PROCESS-NAME,SengokuDynasty.exe
+  - PROCESS-NAME,Sephiria.exe
+  - PROCESS-NAME,Seria.exe
+  - PROCESS-NAME,Server.exe
+  - PROCESS-NAME,Settings.exe
+  - PROCESS-NAME,Settlement Survival.exe
+  - PROCESS-NAME,Settlement SurvivalURP.exe
+  - PROCESS-NAME,Sgsc10th.exe
+  - PROCESS-NAME,ShadowOfMordor.exe
+  - PROCESS-NAME,ShadowOfWar.exe
+  - PROCESS-NAME,Shadows of Doubt.exe
+  - PROCESS-NAME,ShadowverseWB.exe
+  - PROCESS-NAME,Shape of Dreams.exe
+  - PROCESS-NAME,ShareX_Launcher.exe
+  - PROCESS-NAME,Shattered_Minds.exe
+  - PROCESS-NAME,ShellShockLive.exe
+  - PROCESS-NAME,ShiftAtMidnight.exe
+  - PROCESS-NAME,ShipGraveyard2.exe
+  - PROCESS-NAME,Shipbreaker.exe
+  - PROCESS-NAME,ShirenTheWanderer6.exe
+  - PROCESS-NAME,ShogunShowdown.exe
+  - PROCESS-NAME,ShooterGame-Win64-Shipping.exe
+  - PROCESS-NAME,ShooterGame.exe
+  - PROCESS-NAME,ShooterGame_BE.exe
+  - PROCESS-NAME,ShopTitan.exe
+  - PROCESS-NAME,Shredders.exe
+  - PROCESS-NAME,Siegeturtle.exe
+  - PROCESS-NAME,Sifu.exe
+  - PROCESS-NAME,SilverFish.exe
+  - PROCESS-NAME,SimCity 4.exe
+  - PROCESS-NAME,Simple Sight - Crosshair Overlay.exe
+  - PROCESS-NAME,Sims2EP9.exe
+  - PROCESS-NAME,Sims3Launcher.exe
+  - PROCESS-NAME,SkillLegendsRoyale.exe
+  - PROCESS-NAME,Skul.exe
+  - PROCESS-NAME,Sky.exe
+  - PROCESS-NAME,SkyrimLauncher.exe
+  - PROCESS-NAME,SkyrimSELauncher.exe
+  - PROCESS-NAME,SkyrimVR.exe
+  - PROCESS-NAME,Slapshot.exe
+  - PROCESS-NAME,SlayTheSpire.exe
+  - PROCESS-NAME,SlaythePrincess.exe
+  - PROCESS-NAME,Sledders.exe
+  - PROCESS-NAME,SlimeRancher.exe
+  - PROCESS-NAME,SlimeRancher2.exe
+  - PROCESS-NAME,SlutSquad.exe
+  - PROCESS-NAME,Smash_Legends.exe
+  - PROCESS-NAME,SmiteEAC64.exe
+  - PROCESS-NAME,Smutstone.exe
+  - PROCESS-NAME,SniperElite4.exe
+  - PROCESS-NAME,SnowRunner.exe
+  - PROCESS-NAME,SodaDungeon2.exe
+  - PROCESS-NAME,Software Inc.exe
+  - PROCESS-NAME,SolarlandClient.exe
+  - PROCESS-NAME,Solasta.exe
+  - PROCESS-NAME,Solo_Leveling_ARISE_OVERDRIVE.exe
+  - PROCESS-NAME,Solo_Leveling_ARISE_OVERDRIVE_Launcher.exe
+  - PROCESS-NAME,SongsOfConquest.exe
+  - PROCESS-NAME,SongsOfSyx.exe
+  - PROCESS-NAME,SonicFrontiers.exe
+  - PROCESS-NAME,SonicFrontiersArtAndMusic.exe
+  - PROCESS-NAME,SonicRacingCrossWorlds.exe
+  - PROCESS-NAME,SonsOfTheForest.exe
+  - PROCESS-NAME,SophieTheGirlFromTheZone.exe
+  - PROCESS-NAME,SoulcaliburVI-Win64-Test.exe
+  - PROCESS-NAME,SoulcaliburVI.exe
+  - PROCESS-NAME,Soulstone Survivors.exe
+  - PROCESS-NAME,Soundpad.exe
+  - PROCESS-NAME,South Park - The Stick of Truth.exe
+  - PROCESS-NAME,SouthPark_TFBW.exe
+  - PROCESS-NAME,Sovereign.exe
+  - PROCESS-NAME,Space Station 14 Launcher.exe
+  - PROCESS-NAME,SpaceAces.exe
+  - PROCESS-NAME,SpaceEngine.exe
+  - PROCESS-NAME,SpaceEngineers.exe
+  - PROCESS-NAME,SpaceEngineers2.exe
+  - PROCESS-NAME,SpaceIdle.exe
+  - PROCESS-NAME,SpaceMarine.exe
+  - PROCESS-NAME,SparkingZERO.exe
+  - PROCESS-NAME,SpeciesUnknown.exe
+  - PROCESS-NAME,SpeedRunners.exe
+  - PROCESS-NAME,Spel2.exe
+  - PROCESS-NAME,Spider-Man.exe
+  - PROCESS-NAME,Spider-Man2.exe
+  - PROCESS-NAME,SpiderMan2.exe
+  - PROCESS-NAME,SpiritCity.exe
+  - PROCESS-NAME,SpiritIsland.exe
+  - PROCESS-NAME,SpiritVale.exe
+  - PROCESS-NAME,Spiritfarer.exe
+  - PROCESS-NAME,SplitFiction.exe
+  - PROCESS-NAME,SporeApp.exe
+  - PROCESS-NAME,Sprocket.exe
+  - PROCESS-NAME,Spyro.exe
+  - PROCESS-NAME,Squad.exe
+  - PROCESS-NAME,Stacklands.exe
+  - PROCESS-NAME,Stalker2.exe
+  - PROCESS-NAME,StandSurvivors.exe
+  - PROCESS-NAME,Standable.exe
+  - PROCESS-NAME,Star Trek Online.exe
+  - PROCESS-NAME,StarRuptureGameSteam.exe
+  - PROCESS-NAME,StarSavior.exe
+  - PROCESS-NAME,StarVaders.exe
+  - PROCESS-NAME,Starcom Unknown Space.exe
+  - PROCESS-NAME,Stardew Valley.exe
+  - PROCESS-NAME,StardockLauncher.exe
+  - PROCESS-NAME,Starfield.exe
+  - PROCESS-NAME,StartTheFront.exe
+  - PROCESS-NAME,Starter.exe
+  - PROCESS-NAME,StateOfDecay2-Win64-Shipping.exe
+  - PROCESS-NAME,StateOfDecay2-Win64-Test.exe
+  - PROCESS-NAME,StateOfDecay2.exe
+  - PROCESS-NAME,SteamInterface.exe
+  - PROCESS-NAME,SteamLauncher.exe
+  - PROCESS-NAME,SteamWorksExample.exe
+  - PROCESS-NAME,SteelDivision2.exe
+  - PROCESS-NAME,Stick It To The Stickman.exe
+  - PROCESS-NAME,StickFight.exe
+  - PROCESS-NAME,StigmaClient.exe
+  - PROCESS-NAME,Stolen Realm.exe
+  - PROCESS-NAME,StoneShard.exe
+  - PROCESS-NAME,StorageHunter-Win64-Shipping.exe
+  - PROCESS-NAME,StorageHunter.exe
+  - PROCESS-NAME,Storyteller.exe
+  - PROCESS-NAME,StrandedSteam.exe
+  - PROCESS-NAME,StrandedSteamDebug.exe
+  - PROCESS-NAME,Stranded_Deep_x64.exe
+  - PROCESS-NAME,Stranded_Deep_x86.exe
+  - PROCESS-NAME,Strange Antiquities.exe
+  - PROCESS-NAME,Strange Horticulture.exe
+  - PROCESS-NAME,Stray.exe
+  - PROCESS-NAME,StreamAvatars.exe
+  - PROCESS-NAME,StreetFighter6.exe
+  - PROCESS-NAME,StreetFighterV.exe
+  - PROCESS-NAME,StreetsOfRogue.exe
+  - PROCESS-NAME,StreetsOfRogue32.exe
+  - PROCESS-NAME,Strinova.exe
+  - PROCESS-NAME,Stronghold Crusader Definitive Edition.exe
+  - PROCESS-NAME,Stronghold Crusader.exe
+  - PROCESS-NAME,StrongholdKingdoms.exe
+  - PROCESS-NAME,Stumble Guys.exe
+  - PROCESS-NAME,Styx2.exe
+  - PROCESS-NAME,StyxGame.exe
+  - PROCESS-NAME,Subnautica.exe
+  - PROCESS-NAME,Subnautica32.exe
+  - PROCESS-NAME,SubnauticaZero.exe
+  - PROCESS-NAME,Sulfur.exe
+  - PROCESS-NAME,Sultan's Game.exe
+  - PROCESS-NAME,SummonersWar.exe
+  - PROCESS-NAME,Sun Haven.exe
+  - PROCESS-NAME,Sunkenland.exe
+  - PROCESS-NAME,Super Animal Royale.exe
+  - PROCESS-NAME,Super Auto Pets.exe
+  - PROCESS-NAME,Super Fantasy Kingdom.exe
+  - PROCESS-NAME,Super Woden Rally Edge.exe
+  - PROCESS-NAME,Supermarket Simulator.exe
+  - PROCESS-NAME,Supermarket Together.exe
+  - PROCESS-NAME,SupportTool.exe
+  - PROCESS-NAME,Supremacy 1914.exe
+  - PROCESS-NAME,SupremeCommander.exe
+  - PROCESS-NAME,SupremeCommander2.exe
+  - PROCESS-NAME,SurrounDead.exe
+  - PROCESS-NAME,Suzerain.exe
+  - PROCESS-NAME,SwGame-Win64-Shipping.exe
+  - PROCESS-NAME,SwGame.exe
+  - PROCESS-NAME,SyxWithout.exe
+  - PROCESS-NAME,TDUSC.exe
+  - PROCESS-NAME,TEKKEN 7.exe
+  - PROCESS-NAME,TEKKEN 8.exe
+  - PROCESS-NAME,TL-Win64-Test.exe
+  - PROCESS-NAME,TMNTSF.exe
+  - PROCESS-NAME,TOTClient.exe
+  - PROCESS-NAME,TOW2Artbook.exe
+  - PROCESS-NAME,TPC.exe
+  - PROCESS-NAME,TPH.exe
+  - PROCESS-NAME,TPM.exe
+  - PROCESS-NAME,TQ.exe
+  - PROCESS-NAME,TQ2.exe
+  - PROCESS-NAME,TQ2_Development.exe
+  - PROCESS-NAME,TQWorkshopTool.exe
+  - PROCESS-NAME,TR11.exe
+  - PROCESS-NAME,TR11_final.exe
+  - PROCESS-NAME,TR11_release.exe
+  - PROCESS-NAME,TR2_x64_final.exe
+  - PROCESS-NAME,TR2_x64_release.exe
+  - PROCESS-NAME,TRAS_win32_final.exe
+  - PROCESS-NAME,TRAS_win32_release.exe
+  - PROCESS-NAME,TRS19.exe
+  - PROCESS-NAME,TRS22.exe
+  - PROCESS-NAME,TTV2.exe
+  - PROCESS-NAME,Tabletop Simulator.exe
+  - PROCESS-NAME,Tactics Ogre Reborn.exe
+  - PROCESS-NAME,TaleSpire.exe
+  - PROCESS-NAME,TaleWorlds.MountAndBlade.Launcher.exe
+  - PROCESS-NAME,Tales of Arise.exe
+  - PROCESS-NAME,Talos2.exe
+  - PROCESS-NAME,Tap Ninja.exe
+  - PROCESS-NAME,Tape to Tape.exe
+  - PROCESS-NAME,Tavern Master.exe
+  - PROCESS-NAME,Tavern.exe
+  - PROCESS-NAME,TavernKeeper.exe
+  - PROCESS-NAME,TeddysHaven.exe
+  - PROCESS-NAME,Tempest-Win64-Shipping.exe
+  - PROCESS-NAME,Tempest-Win64-Test.exe
+  - PROCESS-NAME,Tempest.exe
+  - PROCESS-NAME,Temtem.exe
+  - PROCESS-NAME,TerraInvicta.exe
+  - PROCESS-NAME,TerraTechWin64.exe
+  - PROCESS-NAME,TerraformingMars.exe
+  - PROCESS-NAME,Terraria.exe
+  - PROCESS-NAME,Texas Poker.exe
+  - PROCESS-NAME,That's not my neighbor (Steam).exe
+  - PROCESS-NAME,The Case of the Golden Idol.exe
+  - PROCESS-NAME,The King is Watching.exe
+  - PROCESS-NAME,The Last Faith.exe
+  - PROCESS-NAME,The Last Spell.exe
+  - PROCESS-NAME,The Perfect Tower II.exe
+  - PROCESS-NAME,The Scroll of Taiwu.exe
+  - PROCESS-NAME,The Seance of Blake Manor.exe
+  - PROCESS-NAME,The Stanley Parable Ultra Deluxe.exe
+  - PROCESS-NAME,TheAlters.exe
+  - PROCESS-NAME,TheBazaar.exe
+  - PROCESS-NAME,TheCrew2.exe
+  - PROCESS-NAME,TheCrewMotorfest.exe
+  - PROCESS-NAME,TheCrust.exe
+  - PROCESS-NAME,TheDivision.exe
+  - PROCESS-NAME,TheDivision2.exe
+  - PROCESS-NAME,TheEscapists2.exe
+  - PROCESS-NAME,TheFarmerWasReplaced.exe
+  - PROCESS-NAME,TheFirstDescendant.exe
+  - PROCESS-NAME,TheForest.exe
+  - PROCESS-NAME,TheForest32.exe
+  - PROCESS-NAME,TheForestVR.exe
+  - PROCESS-NAME,TheGreatCircle.exe
+  - PROCESS-NAME,TheInfected.exe
+  - PROCESS-NAME,TheIsle.exe
+  - PROCESS-NAME,TheKillingAntidote.exe
+  - PROCESS-NAME,TheLongDrive.exe
+  - PROCESS-NAME,TheLostCrown.exe
+  - PROCESS-NAME,TheOuterWorlds.exe
+  - PROCESS-NAME,TheOuterWorlds2.exe
+  - PROCESS-NAME,TheOuterWorlds2Dev.exe
+  - PROCESS-NAME,TheOuterWorlds2Test.exe
+  - PROCESS-NAME,TheOuterWorldsDev.exe
+  - PROCESS-NAME,TheOuterWorldsSpacersChoiceEdition.exe
+  - PROCESS-NAME,TheQuinfall_Loader.exe
+  - PROCESS-NAME,TheSpellBrigade.exe
+  - PROCESS-NAME,TheSpike-Cross.exe
+  - PROCESS-NAME,TheWolfAmongUs.exe
+  - PROCESS-NAME,TheoTown.exe
+  - PROCESS-NAME,There are no Orcs.exe
+  - PROCESS-NAME,TheyAreBillions.exe
+  - PROCESS-NAME,TheyAreBillions_x86.exe
+  - PROCESS-NAME,Thief Simulator 2.exe
+  - PROCESS-NAME,This War of Mine.exe
+  - PROCESS-NAME,ThreeKingdom.exe
+  - PROCESS-NAME,Thronefall.exe
+  - PROCESS-NAME,Thrones.exe
+  - PROCESS-NAME,TicketToRide.exe
+  - PROCESS-NAME,Tiger.exe
+  - PROCESS-NAME,Timberborn.exe
+  - PROCESS-NAME,TimeClickers.exe
+  - PROCESS-NAME,TimeSupermarket.exe
+  - PROCESS-NAME,Timelines.exe
+  - PROCESS-NAME,Tiny Aquarium.exe
+  - PROCESS-NAME,Tiny Bookshop.exe
+  - PROCESS-NAME,Tiny Rogues.exe
+  - PROCESS-NAME,TinyPasture.exe
+  - PROCESS-NAME,TokyoXtremeRacer.exe
+  - PROCESS-NAME,TombRaider.exe
+  - PROCESS-NAME,ToramOnline.exe
+  - PROCESS-NAME,Total War ROME REMASTERED.exe
+  - PROCESS-NAME,TotallyAccurateBattleSimulator.exe
+  - PROCESS-NAME,Touhou Mystia Izakaya.exe
+  - PROCESS-NAME,Tower Of Babel.exe
+  - PROCESS-NAME,Tower Wizard.exe
+  - PROCESS-NAME,TownOfSalem2.exe
+  - PROCESS-NAME,TownToCity.exe
+  - PROCESS-NAME,ToysWorkshop.exe
+  - PROCESS-NAME,TrackBuilder.exe
+  - PROCESS-NAME,Trackmania.exe
+  - PROCESS-NAME,Trailmakers.exe
+  - PROCESS-NAME,TrainSimWorld.exe
+  - PROCESS-NAME,Transformice.exe
+  - PROCESS-NAME,TransportFever2.exe
+  - PROCESS-NAME,TravellersRest.exe
+  - PROCESS-NAME,TrickyTowers.exe
+  - PROCESS-NAME,Trimps.exe
+  - PROCESS-NAME,Trip to Vinelands.exe
+  - PROCESS-NAME,Tropico6.exe
+  - PROCESS-NAME,TslGame_BE.exe
+  - PROCESS-NAME,Tunic.exe
+  - PROCESS-NAME,Turmoil.exe
+  - PROCESS-NAME,Turmoil_PC_Full.exe
+  - PROCESS-NAME,UBERMOSH BLACK.exe
+  - PROCESS-NAME,UBERMOSH Vol5.exe
+  - PROCESS-NAME,UBERMOSH vol3.exe
+  - PROCESS-NAME,UBERMOSH.exe
+  - PROCESS-NAME,UBERMOSH_WRAITH.exe
+  - PROCESS-NAME,UBOAT Launcher.exe
+  - PROCESS-NAME,UDK.exe
+  - PROCESS-NAME,UDKLift.exe
+  - PROCESS-NAME,UE4Editor.exe
+  - PROCESS-NAME,UGCWReporter.exe
+  - PROCESS-NAME,ULTRAKILL.exe
+  - PROCESS-NAME,UNBEATABLE.exe
+  - PROCESS-NAME,UNDECEMBER.exe
+  - PROCESS-NAME,UNDERTALE.exe
+  - PROCESS-NAME,UNIONSteam.exe
+  - PROCESS-NAME,UNLIGHTRevive.exe
+  - PROCESS-NAME,UNO.exe
+  - PROCESS-NAME,Ultimate Admiral Dreadnoughts.exe
+  - PROCESS-NAME,Ultimate Custom Night.exe
+  - PROCESS-NAME,Ultimate General Civil War.exe
+  - PROCESS-NAME,UltimateChickenHorse.exe
+  - PROCESS-NAME,UmamusumePrettyDerby.exe
+  - PROCESS-NAME,UmamusumePrettyDerby_Jpn.exe
+  - PROCESS-NAME,Uncrashed.exe
+  - PROCESS-NAME,Undawn.exe
+  - PROCESS-NAME,Undisputed.exe
+  - PROCESS-NAME,Universe Sandbox x32.exe
+  - PROCESS-NAME,Universe Sandbox x64.exe
+  - PROCESS-NAME,Unpacking.exe
+  - PROCESS-NAME,UnrailedGame.exe
+  - PROCESS-NAME,Untitled.exe
+  - PROCESS-NAME,Unturned.exe
+  - PROCESS-NAME,Unturned_BE.exe
+  - PROCESS-NAME,Upload Labs.exe
+  - PROCESS-NAME,Uwo.exe
+  - PROCESS-NAME,V3Launcher.exe
+  - PROCESS-NAME,VBridger.exe
+  - PROCESS-NAME,VC++_redist.exe
+  - PROCESS-NAME,VEGAConflict.exe
+  - PROCESS-NAME,VPet-Simulator.Windows.exe
+  - PROCESS-NAME,VPet-Simulator.Windows_x86.exe
+  - PROCESS-NAME,VPet.Solution.exe
+  - PROCESS-NAME,VR.exe
+  - PROCESS-NAME,VRCFaceTracking.exe
+  - PROCESS-NAME,VRising.exe
+  - PROCESS-NAME,VRoidStudio.exe
+  - PROCESS-NAME,VTOLVR.exe
+  - PROCESS-NAME,VampireSurvivors.exe
+  - PROCESS-NAME,VanguardGalaxy.exe
+  - PROCESS-NAME,Vein.exe
+  - PROCESS-NAME,VeinDemo.exe
+  - PROCESS-NAME,Viet Quoc Truyen Ky.exe
+  - PROCESS-NAME,Virtual Cottage_WINDOWS.exe
+  - PROCESS-NAME,VitalShell.exe
+  - PROCESS-NAME,Void War.exe
+  - PROCESS-NAME,VoidTrain.exe
+  - PROCESS-NAME,Voyage.exe
+  - PROCESS-NAME,W40k.exe
+  - PROCESS-NAME,WA.exe
+  - PROCESS-NAME,WARNO.exe
+  - PROCESS-NAME,WDC.exe
+  - PROCESS-NAME,WFCrossOutLauncher.exe
+  - PROCESS-NAME,WH40KRT.exe
+  - PROCESS-NAME,WL3.exe
+  - PROCESS-NAME,WP10_2025_Launcher.exe
+  - PROCESS-NAME,WRC10.exe
+  - PROCESS-NAME,WS.exe
+  - PROCESS-NAME,WTL.exe
+  - PROCESS-NAME,WWAATD.exe
+  - PROCESS-NAME,WWE2K25_x64.exe
+  - PROCESS-NAME,Waifu Shop.exe
+  - PROCESS-NAME,WalkingDead101.exe
+  - PROCESS-NAME,WallWorld2.exe
+  - PROCESS-NAME,Wallpaper.exe
+  - PROCESS-NAME,WallpaperAlive.exe
+  - PROCESS-NAME,WallpaperAliveMenu.exe
+  - PROCESS-NAME,WallpaperPlay.exe
+  - PROCESS-NAME,WanderingVillage.exe
+  - PROCESS-NAME,War Robots Steam.exe
+  - PROCESS-NAME,War.exe
+  - PROCESS-NAME,WarOnTheSea.exe
+  - PROCESS-NAME,WarPlanetOnline.exe
+  - PROCESS-NAME,WarRobotsSteamLoader.exe
+  - PROCESS-NAME,Warborne.exe
+  - PROCESS-NAME,WarfaceClutchSteamLoader.exe
+  - PROCESS-NAME,Warhammer 40000 Space Marine 2 - Retail.exe
+  - PROCESS-NAME,Warhammer 40000 Space Marine 2.exe
+  - PROCESS-NAME,Warhammer.exe
+  - PROCESS-NAME,Warhammer2.exe
+  - PROCESS-NAME,Warhammer3.exe
+  - PROCESS-NAME,Wartales.exe
+  - PROCESS-NAME,Warudo.exe
+  - PROCESS-NAME,WatchDogs2.exe
+  - PROCESS-NAME,WatchDogsLegion.exe
+  - PROCESS-NAME,Watch_Dogs.exe
+  - PROCESS-NAME,WaterparkSimulator.exe
+  - PROCESS-NAME,WayOfTheHunter.exe
+  - PROCESS-NAME,We Were Here Forever.exe
+  - PROCESS-NAME,We Were Here Together.exe
+  - PROCESS-NAME,We Were Here.exe
+  - PROCESS-NAME,Whimsy Bake and Craft.exe
+  - PROCESS-NAME,Whiskerwood.exe
+  - PROCESS-NAME,Whisper of the House.exe
+  - PROCESS-NAME,White Knuckle.exe
+  - PROCESS-NAME,WickedIsland.exe
+  - PROCESS-NAME,Wild-Terra-2.exe
+  - PROCESS-NAME,Windose.exe
+  - PROCESS-NAME,WindowsPlayer.exe
+  - PROCESS-NAME,Wingspan.exe
+  - PROCESS-NAME,Witchfire.exe
+  - PROCESS-NAME,Wizard and Minion Idle.exe
+  - PROCESS-NAME,Wizard101.exe
+  - PROCESS-NAME,WizardryVariantsDaphne.exe
+  - PROCESS-NAME,Wobbly Life.exe
+  - PROCESS-NAME,WolfNewOrder_x64.exe
+  - PROCESS-NAME,WolfQuestAE.exe
+  - PROCESS-NAME,Wonderlands.exe
+  - PROCESS-NAME,WorkshopUploader.exe
+  - PROCESS-NAME,WorkshopUtility.exe
+  - PROCESS-NAME,WorldBuilder.exe
+  - PROCESS-NAME,WorldOfSeaBattleClient.exe
+  - PROCESS-NAME,WorldOfWarships.exe
+  - PROCESS-NAME,WorldWarLegion.exe
+  - PROCESS-NAME,Worms W.M.D.exe
+  - PROCESS-NAME,Wrath.exe
+  - PROCESS-NAME,Wreckfest.exe
+  - PROCESS-NAME,Wreckfest2.exe
+  - PROCESS-NAME,Wreckfest_x64.exe
+  - PROCESS-NAME,Wulin.exe
+  - PROCESS-NAME,WurmLauncher64.exe
+  - PROCESS-NAME,Wuthering Waves.exe
+  - PROCESS-NAME,X-Plane.exe
+  - PROCESS-NAME,X4.exe
+  - PROCESS-NAME,XCom2.exe
+  - PROCESS-NAME,XComGame.exe
+  - PROCESS-NAME,XSOverlay Process Manager.exe
+  - PROCESS-NAME,XSOverlay.exe
+  - PROCESS-NAME,XZYPlay.exe
+  - PROCESS-NAME,Xenonauts2.exe
+  - PROCESS-NAME,Yakisoba-Development.exe
+  - PROCESS-NAME,Yakisoba.exe
+  - PROCESS-NAME,Yakuza0.exe
+  - PROCESS-NAME,Yakuza5.exe
+  - PROCESS-NAME,Yakuza7.exe
+  - PROCESS-NAME,YakuzaKiwami.exe
+  - PROCESS-NAME,YakuzaLikeADragon.exe
+  - PROCESS-NAME,Yet Another Zombie Survivors.exe
+  - PROCESS-NAME,YiXianPai.exe
+  - PROCESS-NAME,YoloLauncher.exe
+  - PROCESS-NAME,YourChronicle.exe
+  - PROCESS-NAME,YourMom.exe
+  - PROCESS-NAME,YourOnlyMoveIsHUSTLE.exe
+  - PROCESS-NAME,YourWife.exe
+  - PROCESS-NAME,YuGiOh.exe
+  - PROCESS-NAME,ZERO Sievert.exe
+  - PROCESS-NAME,ZMDesktopElfLauncher.exe
+  - PROCESS-NAME,Zaapi.exe
+  - PROCESS-NAME,Zuma.exe
+  - PROCESS-NAME,ZumasRevenge.exe
+  - PROCESS-NAME,acc.exe
+  - PROCESS-NAME,acr.exe
+  - PROCESS-NAME,adventure-capitalist.exe
+  - PROCESS-NAME,afop.exe
+  - PROCESS-NAME,age3.exe
+  - PROCESS-NAME,age3x.exe
+  - PROCESS-NAME,age3y.exe
+  - PROCESS-NAME,aimlab_tb.exe
+  - PROCESS-NAME,amtrucks.exe
+  - PROCESS-NAME,aomx.exe
+  - PROCESS-NAME,arena_breakout_infinite_launcher.exe
+  - PROCESS-NAME,arma3launcher.exe
+  - PROCESS-NAME,aseprite.exe
+  - PROCESS-NAME,autorun.exe
+  - PROCESS-NAME,avakinLife.exe
+  - PROCESS-NAME,b1.exe
+  - PROCESS-NAME,bapbap.exe
+  - PROCESS-NAME,barony.exe
+  - PROCESS-NAME,basesl.exe
+  - PROCESS-NAME,battlemarked.exe
+  - PROCESS-NAME,beac_wt_mlauncher.exe
+  - PROCESS-NAME,bf6.exe
+  - PROCESS-NAME,bh.exe
+  - PROCESS-NAME,bhd.exe
+  - PROCESS-NAME,bio4.exe
+  - PROCESS-NAME,bitburner.exe
+  - PROCESS-NAME,blackops3.exe
+  - PROCESS-NAME,blender-launcher.exe
+  - PROCESS-NAME,bms.exe
+  - PROCESS-NAME,bootstrapper.exe
+  - PROCESS-NAME,btdb2_game.exe
+  - PROCESS-NAME,c4.exe
+  - PROCESS-NAME,call_to_arms.exe
+  - PROCESS-NAME,call_to_arms_ed.exe
+  - PROCESS-NAME,castnchill.exe
+  - PROCESS-NAME,cg.exe
+  - PROCESS-NAME,cividle.exe
+  - PROCESS-NAME,civilizationbe_dx11.exe
+  - PROCESS-NAME,civilizationbe_mantle.exe
+  - PROCESS-NAME,client.exe
+  - PROCESS-NAME,cms2018.exe
+  - PROCESS-NAME,colonyclient.exe
+  - PROCESS-NAME,config.exe
+  - PROCESS-NAME,coromon.exe
+  - PROCESS-NAME,cossacks.exe
+  - PROCESS-NAME,cricket26.exe
+  - PROCESS-NAME,cs2.exe
+  - PROCESS-NAME,csgo.exe
+  - PROCESS-NAME,csgo_legacy_app.exe
+  - PROCESS-NAME,csgocfg.exe
+  - PROCESS-NAME,cstrike-online.exe
+  - PROCESS-NAME,cstrike.exe
+  - PROCESS-NAME,cstrike_win64.exe
+  - PROCESS-NAME,darkcrusade.exe
+  - PROCESS-NAME,darksiders1.exe
+  - PROCESS-NAME,ddv.exe
+  - PROCESS-NAME,deadcells.exe
+  - PROCESS-NAME,deadcells_gl.exe
+  - PROCESS-NAME,destiny2launcher.exe
+  - PROCESS-NAME,devil_release.exe
+  - PROCESS-NAME,df_launcher.exe
+  - PROCESS-NAME,diagnostics64.exe
+  - PROCESS-NAME,dirtrally2.exe
+  - PROCESS-NAME,dirtrally2_qa.exe
+  - PROCESS-NAME,disco.exe
+  - PROCESS-NAME,djinni!.exe
+  - PROCESS-NAME,dlpc.exe
+  - PROCESS-NAME,dmcLauncher.exe
+  - PROCESS-NAME,dock.exe
+  - PROCESS-NAME,dock_64.exe
+  - PROCESS-NAME,dod.exe
+  - PROCESS-NAME,dod_win64.exe
+  - PROCESS-NAME,domekeeper.exe
+  - PROCESS-NAME,dontstarve_steam.exe
+  - PROCESS-NAME,dontstarve_steam_x64.exe
+  - PROCESS-NAME,dota2.exe
+  - PROCESS-NAME,dota2cfg.exe
+  - PROCESS-NAME,dow2.exe
+  - PROCESS-NAME,dowser.exe
+  - PROCESS-NAME,dps2.exe
+  - PROCESS-NAME,ds.ReleaseSym.exe
+  - PROCESS-NAME,ds.exe
+  - PROCESS-NAME,ds.rtdbg.exe
+  - PROCESS-NAME,dungeoncrusher.exe
+  - PROCESS-NAME,eFootball.exe
+  - PROCESS-NAME,ed8.exe
+  - PROCESS-NAME,editor.exe
+  - PROCESS-NAME,editor_devtools_x64_rwe.exe
+  - PROCESS-NAME,ehm.exe
+  - PROCESS-NAME,engine.exe
+  - PROCESS-NAME,enlisted_BE.exe
+  - PROCESS-NAME,enshrouded.exe
+  - PROCESS-NAME,eu4.exe
+  - PROCESS-NAME,eu5.exe
+  - PROCESS-NAME,eurotrucks2.exe
+  - PROCESS-NAME,evelauncher.exe
+  - PROCESS-NAME,evilwithin.exe
+  - PROCESS-NAME,fallout2launcher.exe
+  - PROCESS-NAME,fellowship.exe
+  - PROCESS-NAME,ff7rebirth.exe
+  - PROCESS-NAME,ff7remake.exe
+  - PROCESS-NAME,ffxivboot.exe
+  - PROCESS-NAME,ffxv_s.exe
+  - PROCESS-NAME,ffxv_sv.exe
+  - PROCESS-NAME,ffxvi.exe
+  - PROCESS-NAME,ffxvi_original.exe
+  - PROCESS-NAME,fm.exe
+  - PROCESS-NAME,fnaf9.exe
+  - PROCESS-NAME,forgotten construction set.exe
+  - PROCESS-NAME,forhonor.exe
+  - PROCESS-NAME,forza_steamworks_release_final.exe
+  - PROCESS-NAME,forza_x64_profile.exe
+  - PROCESS-NAME,forza_x64_release.exe
+  - PROCESS-NAME,forza_x64_release_final.exe
+  - PROCESS-NAME,foundation.exe
+  - PROCESS-NAME,fpsVR.exe
+  - PROCESS-NAME,fsx.exe
+  - PROCESS-NAME,galileo.exe
+  - PROCESS-NAME,gamblers-table.exe
+  - PROCESS-NAME,game.exe
+  - PROCESS-NAME,game_Profile.exe
+  - PROCESS-NAME,game_launcher.exe
+  - PROCESS-NAME,game_ra.exe
+  - PROCESS-NAME,ge.exe
+  - PROCESS-NAME,gmod.exe
+  - PROCESS-NAME,godot.windows.opt.tools.32.exe
+  - PROCESS-NAME,godot.windows.opt.tools.64.exe
+  - PROCESS-NAME,gogh.exe
+  - PROCESS-NAME,golf.exe
+  - PROCESS-NAME,gotg.exe
+  - PROCESS-NAME,gothic.exe
+  - PROCESS-NAME,granblue_fantasy_relink.exe
+  - PROCESS-NAME,grim dawn.exe
+  - PROCESS-NAME,gta-sa.exe
+  - PROCESS-NAME,h3vr.exe
+  - PROCESS-NAME,hammer_profiling.exe
+  - PROCESS-NAME,hammer_release.exe
+  - PROCESS-NAME,helldivers2.exe
+  - PROCESS-NAME,heyboxacc.exe
+  - PROCESS-NAME,hl.exe
+  - PROCESS-NAME,hl2.exe
+  - PROCESS-NAME,hlvr.exe
+  - PROCESS-NAME,hlvrcfg.exe
+  - PROCESS-NAME,hoi4.exe
+  - PROCESS-NAME,hollow_knight.exe
+  - PROCESS-NAME,hunt.exe
+  - PROCESS-NAME,i20_steam_Final.exe
+  - PROCESS-NAME,i20_steam_FinalDM.exe
+  - PROCESS-NAME,i20_steam_Release.exe
+  - PROCESS-NAME,i29_steam_FinalDM.exe
+  - PROCESS-NAME,i29_steam_Release.exe
+  - PROCESS-NAME,i30_steam_FinalDM.exe
+  - PROCESS-NAME,i30_steam_Release.exe
+  - PROCESS-NAME,i31_steam_Final.exe
+  - PROCESS-NAME,i31_steam_FinalDM.exe
+  - PROCESS-NAME,i31_steam_Release.exe
+  - PROCESS-NAME,icarus.exe
+  - PROCESS-NAME,idTechLauncher.exe
+  - PROCESS-NAME,imp_inf.exe
+  - PROCESS-NAME,inZOI.exe
+  - PROCESS-NAME,infinitode-2.exe
+  - PROCESS-NAME,insurgency.exe
+  - PROCESS-NAME,isaac-ng.exe
+  - PROCESS-NAME,iw3mp.exe
+  - PROCESS-NAME,iw3sp.exe
+  - PROCESS-NAME,iw4mp.exe
+  - PROCESS-NAME,iw4sp.exe
+  - PROCESS-NAME,iw5sp.exe
+  - PROCESS-NAME,iw7_ship.exe
+  - PROCESS-NAME,javaw.exe
+  - PROCESS-NAME,kaiju_no8_the_game.exe
+  - PROCESS-NAME,kards.exe
+  - PROCESS-NAME,kenshi_x32.exe
+  - PROCESS-NAME,kenshi_x64.exe
+  - PROCESS-NAME,koa.exe
+  - PROCESS-NAME,krita.exe
+  - PROCESS-NAME,ktane.exe
+  - PROCESS-NAME,kuro.exe
+  - PROCESS-NAME,kuro2.exe
+  - PROCESS-NAME,kuro2_dev.exe
+  - PROCESS-NAME,kuro2_dev_debug.exe
+  - PROCESS-NAME,kuro_dev.exe
+  - PROCESS-NAME,kuro_dev_debug.exe
+  - PROCESS-NAME,launch.exe
+  - PROCESS-NAME,launchdf.exe
+  - PROCESS-NAME,launcher.exe
+  - PROCESS-NAME,launchpoint.exe
+  - PROCESS-NAME,left4dead.exe
+  - PROCESS-NAME,left4dead2.exe
+  - PROCESS-NAME,likeadragongaiden.exe
+  - PROCESS-NAME,lotrolauncher.exe
+  - PROCESS-NAME,mafia3definitiveedition.exe
+  - PROCESS-NAME,mafiadefinitiveedition.exe
+  - PROCESS-NAME,manosaba.exe
+  - PROCESS-NAME,masterduel.exe
+  - PROCESS-NAME,mb_warband.exe
+  - PROCESS-NAME,mcc-win64-shipping.exe
+  - PROCESS-NAME,mcc.exe
+  - PROCESS-NAME,mcclauncher.exe
+  - PROCESS-NAME,medieval2.exe
+  - PROCESS-NAME,metal_slug_launcher.exe
+  - PROCESS-NAME,metaphor_book.exe
+  - PROCESS-NAME,metaphor_book35th.exe
+  - PROCESS-NAME,metaphor_guide.exe
+  - PROCESS-NAME,metaphor_sound.exe
+  - PROCESS-NAME,metaphor_sound35th.exe
+  - PROCESS-NAME,metro.exe
+  - PROCESS-NAME,mgsvtpp.exe
+  - PROCESS-NAME,milkywayidle.exe
+  - PROCESS-NAME,mindovermagic.exe
+  - PROCESS-NAME,mmf2u.exe
+  - PROCESS-NAME,mod_uploader.exe
+  - PROCESS-NAME,modman.exe
+  - PROCESS-NAME,momentum.exe
+  - PROCESS-NAME,mowas_2.exe
+  - PROCESS-NAME,mowas_2_ed.exe
+  - PROCESS-NAME,mxbikes.exe
+  - PROCESS-NAME,mystina_heroes.exe
+  - PROCESS-NAME,mysummercar.exe
+  - PROCESS-NAME,mywintercar.exe
+  - PROCESS-NAME,ne_pc_steam.exe
+  - PROCESS-NAME,ne_pc_steam_debug.exe
+  - PROCESS-NAME,ne_pc_steam_profile.exe
+  - PROCESS-NAME,ne_pc_steam_tester.exe
+  - PROCESS-NAME,nie.exe
+  - PROCESS-NAME,night_swarm.exe
+  - PROCESS-NAME,nioh.exe
+  - PROCESS-NAME,nioh2.exe
+  - PROCESS-NAME,nioh_launcher.exe
+  - PROCESS-NAME,nmrih.exe
+  - PROCESS-NAME,noita.exe
+  - PROCESS-NAME,nshm.exe
+  - PROCESS-NAME,nuclearthrone.exe
+  - PROCESS-NAME,nw.exe
+  - PROCESS-NAME,nwmain.exe
+  - PROCESS-NAME,nwtoolset.exe
+  - PROCESS-NAME,nxsteam.exe
+  - PROCESS-NAME,oakenTower.exe
+  - PROCESS-NAME,obs64.exe
+  - PROCESS-NAME,ofAshAndSteel.exe
+  - PROCESS-NAME,ofAshAndSteelGame.exe
+  - PROCESS-NAME,ootp25.exe
+  - PROCESS-NAME,ootp26.exe
+  - PROCESS-NAME,openttd.exe
+  - PROCESS-NAME,oriwotw.exe
+  - PROCESS-NAME,osclient.exe
+  - PROCESS-NAME,oslaunch.exe
+  - PROCESS-NAME,parcel.exe
+  - PROCESS-NAME,patriots.exe
+  - PROCESS-NAME,payday2_win32_release.exe
+  - PROCESS-NAME,payday2_win32_release_vr.exe
+  - PROCESS-NAME,peggle.exe
+  - PROCESS-NAME,pico_park.exe
+  - PROCESS-NAME,portal2.exe
+  - PROCESS-NAME,prison architect64.exe
+  - PROCESS-NAME,project_nonmp.exe
+  - PROCESS-NAME,proven_ground_client.exe
+  - PROCESS-NAME,pso2launcher.exe
+  - PROCESS-NAME,qsdklauncher.exe
+  - PROCESS-NAME,quakelive_steam.exe
+  - PROCESS-NAME,rF Config.exe
+  - PROCESS-NAME,ravenfield.exe
+  - PROCESS-NAME,rct.exe
+  - PROCESS-NAME,rct2.exe
+  - PROCESS-NAME,re0hd.exe
+  - PROCESS-NAME,re2.exe
+  - PROCESS-NAME,re3.exe
+  - PROCESS-NAME,re4.exe
+  - PROCESS-NAME,re7.exe
+  - PROCESS-NAME,re8.exe
+  - PROCESS-NAME,redprelauncher.exe
+  - PROCESS-NAME,rerev.exe
+  - PROCESS-NAME,rerev2.exe
+  - PROCESS-NAME,retroarch.exe
+  - PROCESS-NAME,reverse1999.exe
+  - PROCESS-NAME,rf4_diag.exe
+  - PROCESS-NAME,rf4_x64.exe
+  - PROCESS-NAME,ride5.exe
+  - PROCESS-NAME,riftbreaker_win_release.exe
+  - PROCESS-NAME,riftpatchlive.exe
+  - PROCESS-NAME,road_builder_eos_bootstrapper_release.exe
+  - PROCESS-NAME,road_builder_steam_profile.exe
+  - PROCESS-NAME,road_builder_steam_release.exe
+  - PROCESS-NAME,road_builder_steam_retail.exe
+  - PROCESS-NAME,rocketstation.exe
+  - PROCESS-NAME,roottrees.exe
+  - PROCESS-NAME,runme.exe
+  - PROCESS-NAME,runme2.exe
+  - PROCESS-NAME,rust.exe
+  - PROCESS-NAME,s2_sp64_ship.exe
+  - PROCESS-NAME,satisfactory_modeler.exe
+  - PROCESS-NAME,sclauncher.exe
+  - PROCESS-NAME,scotch_profiling.exe
+  - PROCESS-NAME,scotch_showcase.exe
+  - PROCESS-NAME,sekiro.exe
+  - PROCESS-NAME,sfm.exe
+  - PROCESS-NAME,shakesandfidget.exe
+  - PROCESS-NAME,shapez 2.exe
+  - PROCESS-NAME,shapezio.exe
+  - PROCESS-NAME,sins2_dev.exe
+  - PROCESS-NAME,skullandbones.exe
+  - PROCESS-NAME,sm.exe
+  - PROCESS-NAME,smt3hd.exe
+  - PROCESS-NAME,sniperelite5.exe
+  - PROCESS-NAME,sniperresistance.exe
+  - PROCESS-NAME,sniperresistance_dx12.exe
+  - PROCESS-NAME,sniperresistance_qa_dx12.exe
+  - PROCESS-NAME,sora_1st.exe
+  - PROCESS-NAME,soulstorm.exe
+  - PROCESS-NAME,spacehaven.exe
+  - PROCESS-NAME,squad_launcher.exe
+  - PROCESS-NAME,stalcraftw.exe
+  - PROCESS-NAME,starbound.exe
+  - PROCESS-NAME,starbound_server.exe
+  - PROCESS-NAME,start_epic_crossplay_game.exe
+  - PROCESS-NAME,start_offthegrid.exe
+  - PROCESS-NAME,start_protected_game.exe
+  - PROCESS-NAME,start_protected_launcher.exe
+  - PROCESS-NAME,startup.exe
+  - PROCESS-NAME,steamshim.exe
+  - PROCESS-NAME,stellaris.exe
+  - PROCESS-NAME,stingray_win64_dev.exe
+  - PROCESS-NAME,stingray_win64_profile.exe
+  - PROCESS-NAME,stingray_win64_release.exe
+  - PROCESS-NAME,stormworks.exe
+  - PROCESS-NAME,stormworks64.exe
+  - PROCESS-NAME,supermegabaseball.exe
+  - PROCESS-NAME,svencoop.exe
+  - PROCESS-NAME,svends.exe
+  - PROCESS-NAME,swkotor.exe
+  - PROCESS-NAME,swkotor2.exe
+  - PROCESS-NAME,t-engine.exe
+  - PROCESS-NAME,t1x-final-pgo-lto.exe
+  - PROCESS-NAME,t1x-release.exe
+  - PROCESS-NAME,t1x-rtm.exe
+  - PROCESS-NAME,t2r-steam-final-pgo-lto.exe
+  - PROCESS-NAME,t2r-steam-release.exe
+  - PROCESS-NAME,t6zm.exe
+  - PROCESS-NAME,tModLoader.exe
+  - PROCESS-NAME,teardown.exe
+  - PROCESS-NAME,teardown64_profile_steam.exe
+  - PROCESS-NAME,tf.exe
+  - PROCESS-NAME,tf_win64.exe
+  - PROCESS-NAME,theHunterCotW_F.exe
+  - PROCESS-NAME,theHunterCotW_P.exe
+  - PROCESS-NAME,theHunterCotW_R.exe
+  - PROCESS-NAME,thief.exe
+  - PROCESS-NAME,tinkerlands.exe
+  - PROCESS-NAME,tiny-glade.exe
+  - PROCESS-NAME,tld.exe
+  - PROCESS-NAME,tlou-ii-l.exe
+  - PROCESS-NAME,tlou-ii.exe
+  - PROCESS-NAME,tomb123.exe
+  - PROCESS-NAME,topspin2k25.exe
+  - PROCESS-NAME,torchlight_infinite.exe
+  - PROCESS-NAME,tos.exe
+  - PROCESS-NAME,tower-dominion.exe
+  - PROCESS-NAME,tower.exe
+  - PROCESS-NAME,twmm.exe
+  - PROCESS-NAME,u4.exe
+  - PROCESS-NAME,ucldr_MirTrilogy4_ST_loader_x64.exe
+  - PROCESS-NAME,ufo50.exe
+  - PROCESS-NAME,umvc3.exe
+  - PROCESS-NAME,underlords.exe
+  - PROCESS-NAME,underrail.exe
+  - PROCESS-NAME,uni2.exe
+  - PROCESS-NAME,unsupported.exe
+  - PROCESS-NAME,valheim.exe
+  - PROCESS-NAME,vermintide2.exe
+  - PROCESS-NAME,vermintide2_dx12.exe
+  - PROCESS-NAME,victoria2.exe
+  - PROCESS-NAME,wargame3.exe
+  - PROCESS-NAME,warspear.exe
+  - PROCESS-NAME,webfishing.exe
+  - PROCESS-NAME,wesnoth.exe
+  - PROCESS-NAME,wgcs_api.exe
+  - PROCESS-NAME,wildermyth.exe
+  - PROCESS-NAME,witcher.exe
+  - PROCESS-NAME,witness_d3d11.exe
+  - PROCESS-NAME,worldbox.exe
+  - PROCESS-NAME,wotblitz.exe
+  - PROCESS-NAME,wwm.exe
+  - PROCESS-NAME,wwzProfile.exe
+  - PROCESS-NAME,wwzRelease.exe
+  - PROCESS-NAME,wwzRetail.exe
+  - PROCESS-NAME,xdt.exe
+  - PROCESS-NAME,xgameFinal.exe
+  - PROCESS-NAME,xiuxianWPF.exe
+  - PROCESS-NAME,xldr_3on3FreeStyle_ST_loader_x64.exe
+  - PROCESS-NAME,za4.exe
+  - PROCESS-NAME,zosSteamStarter.exe
+  - PROCESS-NAME,zula_launcher.exe
+  - PROCESS-NAME,依盖之书.exe
+  - PROCESS-NAME,妹居物语.exe
+  - PROCESS-NAME,觅长生.exe

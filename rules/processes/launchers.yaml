@@ -1,0 +1,24 @@
+# Game Launchers & Stores
+# Separated from game rules to allow different routing policies.
+payload:
+  - PROCESS-NAME,Steam.exe
+  - PROCESS-NAME,steamwebhelper.exe
+  - PROCESS-NAME,EpicGamesLauncher.exe
+  - PROCESS-NAME,EpicWebHelper.exe
+  - PROCESS-NAME,UbisoftConnect.exe
+  - PROCESS-NAME,upc.exe
+  - PROCESS-NAME,UplayWebCore.exe
+  - PROCESS-NAME,Origin.exe
+  - PROCESS-NAME,EADesktop.exe
+  - PROCESS-NAME,EABackgroundService.exe
+  - PROCESS-NAME,Battle.net.exe
+  - PROCESS-NAME,Agent.exe
+  - PROCESS-NAME,GalaxyClient.exe
+  - PROCESS-NAME,GalaxyClientService.exe
+  - PROCESS-NAME,RiotClientServices.exe
+  - PROCESS-NAME,LeagueClient.exe
+  - PROCESS-NAME,Igcc.exe
+  - PROCESS-NAME,GeForce Experience.exe
+  - PROCESS-NAME,NVIDIA Share.exe
+  - PROCESS-NAME,Discord.exe
+  - PROCESS-NAME,Update.exe
