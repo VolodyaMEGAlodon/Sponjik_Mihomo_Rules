@@ -246,7 +246,6 @@ payload:
   - PROCESS-NAME,AvowedArtbook.exe
   - PROCESS-NAME,AvowedDev.exe
   - PROCESS-NAME,AvowedTest.exe
-  - PROCESS-NAME,AvP.exe
   - PROCESS-NAME,AvP3.exe
   - PROCESS-NAME,AvP_DX11.exe
   - PROCESS-NAME,AvP_Launcher.exe
@@ -3847,4 +3846,5 @@ payload:
   - PROCESS-NAME,妹居物语.exe
   - PROCESS-NAME,蒼の彼方のフォーリズム.exe
   - PROCESS-NAME,觅长生.exe
+
 
