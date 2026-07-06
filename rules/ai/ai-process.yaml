@@ -1,0 +1,163 @@
+# =============================================================================
+# ai-process.yaml — AI / neural-net apps by PROCESS-NAME (mihomo classical set)
+# =============================================================================
+# Wire up in your config with:
+#     rule-providers:
+#       ai-process: { type: file, behavior: classical, format: yaml, path: ./ai-process.yaml }
+#     rules:
+#       - RULE-SET,ai-process,AI          # <- replace AI with your proxy / proxy-group
+#
+# PROCESS-NAME semantics differ per OS (this is where most lists go wrong):
+#   Windows  -> executable basename WITH .exe, matching is CASE-INSENSITIVE
+#   macOS    -> Mach-O executable name (CFBundleExecutable), CASE-SENSITIVE,
+#               NOT the bundle id and NOT the .app display name
+#   Android  -> app package name (ClashMetaForAndroid resolves uid -> package)
+# Names with spaces are kept literal (only the first comma is the delimiter).
+# Confidence tags:
+#   [✓ MSIX]  AppxManifest Executable=      [✓ MSI]  MSI File table
+#   [✓ unpack] installer extracted (no run) [✓ scoop] Scoop bin/shortcuts
+#   [✓ meta]  binary VersionInfo            [✓ docs] vendor docs
+#   [✓ winget] winget manifest              [✓ local] this-machine scan/live proc
+#   [inferred] strong evidence, not pinned -> verify if critical
+# =============================================================================
+payload:
+  # ---------------------------------------------------------------------------
+  # WINDOWS (.exe) — every entry below is confirmed (no guesses left)
+  # ---------------------------------------------------------------------------
+  - PROCESS-NAME,ChatGPT.exe                 # OpenAI ChatGPT desktop        [✓ MSIX]
+  - PROCESS-NAME,codex.exe                   # OpenAI Codex (app Codex.exe + CLI) [✓ MSIX]
+  - PROCESS-NAME,codex-command-runner.exe    # OpenAI Codex helper           [✓ prod]
+  - PROCESS-NAME,codex-windows-sandbox-setup.exe # Codex sandbox setup       [✓ prod]
+  - PROCESS-NAME,claude.exe                  # Claude Desktop + Claude Code CLI   [✓ MSIX]
+  - PROCESS-NAME,Cursor.exe                  # Cursor                        [✓ meta]
+  - PROCESS-NAME,Windsurf.exe                # Windsurf                      [✓ meta]
+  - PROCESS-NAME,Antigravity.exe             # Google Antigravity            [✓ meta]
+  - PROCESS-NAME,Kiro.exe                    # Amazon Kiro (metadata=electron.exe, image=Kiro.exe) [✓ local]
+  - PROCESS-NAME,Trae.exe                    # Trae (metadata=electron.exe, image=Trae.exe)        [✓ local]
+  - PROCESS-NAME,ollama.exe                  # Ollama server/CLI             [✓ local]
+  - PROCESS-NAME,ollama app.exe              # Ollama tray GUI (has space)   [✓ local]
+  - PROCESS-NAME,M365Copilot.exe             # Microsoft 365 Copilot         [✓ local]
+  - PROCESS-NAME,mscopilot.exe               # MS Copilot standalone (self-contained Chromium; child net-service is also mscopilot.exe) [✓ unpack]
+  - PROCESS-NAME,Zed.exe                     # Zed                           [✓ winget/docs]
+  - PROCESS-NAME,Warp.exe                    # Warp terminal                 [✓ winget/docs]
+  - PROCESS-NAME,ComfyUI.exe                 # ComfyUI Desktop (Electron)    [✓ winget]
+  - PROCESS-NAME,Perplexity.exe              # Perplexity desktop            [✓ unpack]
+  - PROCESS-NAME,Poe.exe                     # Poe (Squirrel; stub=Poe_ExecutionStub.exe, app=Poe.exe) [✓ unpack]
+  - PROCESS-NAME,LM Studio.exe               # LM Studio (has space)         [✓ scoop]
+  - PROCESS-NAME,Descript.exe                # Descript                      [✓ unpack]
+  - PROCESS-NAME,Topaz Video AI.exe          # Topaz Video AI (GUI, has space; CLI: ffmpeg.exe child)   [✓ docs]
+  - PROCESS-NAME,Topaz Photo AI.exe          # Topaz Photo AI (GUI; CLI is tpai.exe)      [✓ MSI]
+  - PROCESS-NAME,Topaz Gigapixel AI.exe      # Topaz Gigapixel AI (GUI; CLI is gigapixel.exe) [✓ MSI]
+  # -- verify on-machine before adding --
+  # Google Gemini "Google app for Windows": running-process name still UNCONFIRMED.
+  #   Omaha bootstrapper (GoogleAppInstaller.exe) downloads payload at install time,
+  #   so nothing to unpack; best guesses GoogleApp.exe / Google.exe under
+  #   %LocalAppData%\Google\. Install -> Task Manager -> add the real name.
+  # ComfyUI portable/manual runs as python.exe — too broad for PROCESS-NAME;
+  #   route by domain (comfy.org) or use PROCESS-PATH to the ComfyUI folder.
+  # No official Windows app (route by DOMAIN only): DeepSeek (any .exe = malware),
+  #   xAI Grok, Mistral, Meta AI, Midjourney, Runway, ElevenLabs, Suno, Udio,
+  #   Luma, Pika, Leonardo, Krea, Ideogram, Kling, HeyGen, GitHub Copilot (extension).
+
+  # ---------------------------------------------------------------------------
+  # macOS (Mach-O executable name — case-sensitive, NOT bundle id)
+  # ---------------------------------------------------------------------------
+  - PROCESS-NAME,ChatGPT                     # OpenAI ChatGPT                [cask]
+  - PROCESS-NAME,Claude                      # Claude Desktop (capital C)    [cask]
+  - PROCESS-NAME,claude                      # Claude Code CLI (lowercase)   [verified]
+  - PROCESS-NAME,codex                       # OpenAI Codex CLI              [verified]
+  - PROCESS-NAME,Gemini                      # Google Gemini app             [cask]
+  - PROCESS-NAME,Cursor                      # Cursor                        [cask]
+  - PROCESS-NAME,Windsurf                    # Windsurf                      [inferred]
+  - PROCESS-NAME,Antigravity                 # Google Antigravity            [inferred]
+  - PROCESS-NAME,Kiro                        # Amazon Kiro (CLI: kiro-cli)   [inferred]
+  - PROCESS-NAME,Trae                        # Trae                          [cask]
+  - PROCESS-NAME,zed                         # Zed (lowercase on mac)        [inferred]
+  - PROCESS-NAME,stable                      # Warp — Mach-O is 'stable'!    [cask]
+  - PROCESS-NAME,Ollama                      # Ollama GUI                    [inferred]
+  - PROCESS-NAME,ollama                      # Ollama daemon/CLI             [inferred]
+  - PROCESS-NAME,LM Studio                   # LM Studio (CLI: lms)          [cask]
+  - PROCESS-NAME,Poe                         # Poe                           [inferred]
+  - PROCESS-NAME,Perplexity                  # Perplexity (App Store)        [inferred]
+  - PROCESS-NAME,Grok                        # xAI Grok (App Store)          [inferred]
+  - PROCESS-NAME,Le Chat                     # Mistral Le Chat/Vibe          [inferred]
+  - PROCESS-NAME,GitHub Copilot              # GitHub Copilot for Mac        [inferred]
+  - PROCESS-NAME,Runway                      # Runway                        [cask]
+  - PROCESS-NAME,Descript                    # Descript                      [cask]
+  - PROCESS-NAME,Topaz Photo AI              # Topaz Photo AI                [cask]
+  - PROCESS-NAME,Topaz Video AI              # Topaz Video AI                [inferred]
+  - PROCESS-NAME,Topaz Gigapixel AI          # Topaz Gigapixel AI            [inferred]
+  - PROCESS-NAME,ComfyUI                     # ComfyUI Desktop               [inferred]
+  # WARNING: macOS 'stable' (Warp) is a generic name. If it over-matches, drop it
+  #   and use instead:  - PROCESS-PATH-REGEX,(?i)/Warp\.app/
+
+  # ---------------------------------------------------------------------------
+  # ANDROID (package name — ClashMetaForAndroid)
+  # ---------------------------------------------------------------------------
+  - PROCESS-NAME,com.openai.chatgpt          # ChatGPT (+ Codex mobile)      [verified]
+  - PROCESS-NAME,com.openai.sora             # Sora                          [verified]
+  - PROCESS-NAME,com.anthropic.claude        # Claude                        [verified]
+  - PROCESS-NAME,com.google.android.apps.bard # Gemini (legacy 'bard' name)  [verified]
+  - PROCESS-NAME,com.microsoft.copilot       # Microsoft Copilot             [verified]
+  - PROCESS-NAME,ai.perplexity.app.android   # Perplexity                    [verified]
+  - PROCESS-NAME,ai.x.grok                   # xAI Grok                      [verified]
+  - PROCESS-NAME,com.deepseek.chat           # DeepSeek                      [verified]
+  - PROCESS-NAME,ai.mistral.chat             # Mistral Le Chat/Vibe          [verified]
+  - PROCESS-NAME,com.facebook.stella         # Meta AI                       [verified]
+  - PROCESS-NAME,com.poe.android             # Poe                           [verified]
+  - PROCESS-NAME,com.bytedance.trae.overseas # Trae companion                [verified]
+  - PROCESS-NAME,com.runwayml.prod           # Runway                        [verified]
+  - PROCESS-NAME,io.elevenlabs.coreapp       # ElevenLabs                    [verified]
+  - PROCESS-NAME,io.elevenlabs.readerapp     # ElevenReader                  [verified]
+  - PROCESS-NAME,com.suno.android            # Suno                          [verified]
+  - PROCESS-NAME,ai.leonardo.leonardo        # Leonardo.ai                   [verified]
+  - PROCESS-NAME,kling.ai.video.chat         # Kling                         [verified]
+  - PROCESS-NAME,com.heygen.app              # HeyGen                        [verified]
+  # Optional — GitHub app hosts Copilot mobile (broad, catches all GitHub traffic):
+  # - PROCESS-NAME,com.github.android
+  # No official Android app (clones only — do NOT add): Midjourney, Udio, Pika,
+  #   Krea, Luma, Ideogram. Desktop/CLI-only (no Android): Cursor, Windsurf,
+  #   Antigravity, Kiro, Zed, Warp, Claude Code, Ollama, LM Studio, Descript,
+  #   Topaz, ComfyUI.
+
+  # ═══════════════════════════════════════════════════════════════════════════
+  # GAP-SWEEP round 2 — new apps (build-config / Play / docs verified)
+  # ═══════════════════════════════════════════════════════════════════════════
+  # -- Windows (.exe) --
+  - PROCESS-NAME,CherryStudio.exe            # Cherry Studio (executableName, NO space!) [✓ electron-builder]
+  - PROCESS-NAME,Jan.exe                     # Jan (Tauri productName)       [✓ tauri.conf]
+  - PROCESS-NAME,AnythingLLM.exe             # AnythingLLM desktop           [known]
+  - PROCESS-NAME,Chatbox.exe                 # Chatbox (appId xyz.chatboxapp.ce) [verify]
+  - PROCESS-NAME,Msty.exe                    # Msty                          [verify]
+  - PROCESS-NAME,Qoder.exe                   # Qoder (VS Code fork)          [known]
+  - PROCESS-NAME,Raycast.exe                 # Raycast for Windows           [verify]
+  - PROCESS-NAME,LobeHub.exe                 # LobeHub/LobeChat desktop      [verify]
+  - PROCESS-NAME,Granola.exe                 # Granola                       [verify]
+  - PROCESS-NAME,Doubao.exe                  # Doubao desktop (ByteDance)    [✓ docs] regional
+  - PROCESS-NAME,wispr flow.exe              # Wispr Flow (has space)        [✓ sandbox]
+  # GPT4All -> process is generic `chat.exe`: do NOT match by name (catches other apps).
+  #   Enable by path instead:  - PROCESS-PATH-REGEX,(?i)[\\/]gpt4all[\\/].*chat\.exe$
+  # Gemini on Windows = PWA (runs under chrome.exe/msedge.exe) — NO own process; domain-only.
+  # Regional desktop apps exist but running exe unconfirmed (domain-covered): Kimi Work
+  #   (kimi.com), Qwen Studio (qwen.ai), Tencent Yuanbao (yuanbao.tencent.com).
+  # -- macOS (Mach-O executable name) --
+  - PROCESS-NAME,Jan                         # Jan                           [✓ tauri]
+  - PROCESS-NAME,CherryStudio                # Cherry Studio (executableName)[✓ electron-builder]
+  - PROCESS-NAME,AnythingLLM                 # AnythingLLM                   [known]
+  - PROCESS-NAME,Msty                        # Msty                          [verify]
+  - PROCESS-NAME,Qoder                       # Qoder                         [known]
+  - PROCESS-NAME,Granola                     # Granola                       [verify]
+  - PROCESS-NAME,Raycast                     # Raycast (Mac-first!)          [known]
+  - PROCESS-NAME,Chatbox                     # Chatbox                       [verify]
+  - PROCESS-NAME,LobeHub                     # LobeHub/LobeChat desktop      [verify]
+  - PROCESS-NAME,Doubao                      # Doubao (regional)             [verify]
+  - PROCESS-NAME,Wispr Flow                  # Wispr Flow                    [verify]
+  - PROCESS-NAME,Draw Things                 # Draw Things (Mac/iOS)         [verify]
+  - PROCESS-NAME,DiffusionBee                # DiffusionBee (OSS)            [known]
+  - PROCESS-NAME,superwhisper                # superwhisper                  [verify]
+  # -- Android (package name) --
+  - PROCESS-NAME,ai.character.app            # Character.AI (NOT com.character.ai!) [✓ Play]
+  - PROCESS-NAME,com.aisense.otter           # Otter.ai                      [✓ Play]
+  - PROCESS-NAME,com.cliffweitzman.speechify2 # Speechify                    [✓ Play]
+  - PROCESS-NAME,ai.inflection.pi            # Pi (Inflection)               [✓ Play]
+  - PROCESS-NAME,com.replit.app              # Replit                        [✓ Play]
